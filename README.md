@@ -1,95 +1,134 @@
-
-<h1 align="center">
-   Database Management System & Analytics for Tax Services Business
-</h>
+# Database Management System & Analytics for Tax Services Business
 
 <p align="center">
-  <img src="imagenes/portada2.jpg" />
+  <img src="images/cover2.jpg" />
 </p>
 
+---
+
+## Contents
+1. [Cover Title](#cover-title)
+2. [Description](#description)
+3. [Installation](#installation)
+4. [Introduction](#introduction)
+5. [Objectives](#objectives)
+6. [Project Organization](#project-organization)
+7. [Installation](#installation)
+8. [Usage](#usage)
+9. [Methodology](#methodology)
+10. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+11. [Predictive Modeling](#predictive-modeling)
+12. [Results and Discussion](#results-and-discussion)
+13. [Conclusions and Recommendations](#conclusions-and-recommendations)
+14. [Contributions](#contributions)
+15. [License](#license)
+16. [Contact](#contact)
 
 ---
 
-## Contenido
-1. [Título Portada](#título-portada)
-2. [Descripción](#descripción)
-3. [Instalación](#instalacion)
-3. [Introducción](#introducción)
-4. [Objetivos](#objetivos)
-5. [Organización del Proyecto](#organización-del-proyecto)
-6. [Instalación](#instalación)
-7. [Uso](#uso)
-8. [Metodología](#metodología)
-9. [Análisis Exploratorio de Datos (EDA)](#análisis-exploratorio-de-datos-eda)
-10. [Modelado Predictivo](#modelado-predictivo)
-11. [Resultados y Discusión](#resultados-y-discusión)
-12. [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
-13. [Contribuciones](#contribuciones)
-14. [Licencia](#licencia)
-15. [Contacto](#contacto)
+## Description
+This project focuses on creating a database management system (DBMS) and a set of data analytics tools specifically designed to optimize tax services in the United States. Using advanced data science techniques, the project aims to enhance the efficiency and accuracy of the tax filing process, addressing the challenges faced by both taxpayers and tax service providers.
 
----
+The project is built on a relational database that includes detailed tables on taxpayers, dependents, income, deductions, credits, payments, refunds, and amounts owed. A synthetic dataset is used to simulate real-world scenarios, enabling analysis and solution development without compromising data privacy.
 
-## Descripción
-Este proyecto está enfocado en la creación de un sistema de gestión de bases de datos (DBMS) y un conjunto de herramientas de análisis de datos específicamente diseñado para optimizar los servicios de impuestos en los Estados Unidos. Utilizando técnicas avanzadas de ciencia de datos, el proyecto se centra en mejorar la eficiencia y precisión del proceso de declaración de impuestos, abordando los desafíos que enfrentan tanto los contribuyentes como las empresas que ofrecen servicios de impuestos.
+In addition to creating the DBMS, the project includes exploratory data analysis (EDA) to identify key patterns and relationships in tax data. Based on these analyses, predictive models are developed to forecast future behaviors and optimize decision-making in tax management.
 
-El proyecto se construye sobre una base de datos relacional que incluye tablas detalladas sobre contribuyentes, dependientes, ingresos, deducciones, créditos, pagos, reembolsos y montos adeudados. Se utiliza un conjunto de datos sintético que permite simular escenarios reales, facilitando el análisis y el desarrollo de soluciones sin comprometer la privacidad de los datos.
+The project is modular and organized into several documents detailing system development, data analysis, and answers to specific business questions. A detailed guide for system installation and usage is also provided, facilitating its implementation in real-world environments.
 
-Además de la creación del DBMS, el proyecto incluye un análisis exploratorio de datos (EDA) para identificar patrones y relaciones clave en los datos fiscales. A partir de estos análisis, se desarrollan modelos predictivos para predecir comportamientos futuros y optimizar la toma de decisiones en la gestión de impuestos.
+## **Project Structure**
+Description of the documents and directories included in the project.
+- `README.md`: General project description.
+- `1_Laboratory_Creation_and_Database_Management_System.ipynb`: Project Development - Part 1.
+- `2_Analysis_and_Business_Questions_Answers.ipynb`: Project Development - Part 2.
+- `images/`: Directory containing images used in the documents.
+- `tables/`: Directory containing data tables used in the analyses.
+- `scripts/`: Directory containing scripts for project execution, including exploratory data analysis and predictive modeling.
+- `data/`: Directory containing raw and processed datasets used for analysis and modeling.
 
-El proyecto es modular y está organizado en varios documentos que detallan el desarrollo del sistema, el análisis de datos y las respuestas a preguntas de negocio específicas. También se proporciona una guía detallada para la instalación y uso del sistema, facilitando su implementación en entornos reales.
+## **Directory Structure**
+<pre>
+your_project/
+│
+├── README.md
+├── 1_Laboratory_Creation_and_Database_Management_System.ipynb
+├── 2_Analysis_and_Business_Questions_Answers.ipynb
+├── images/
+│   ├── cover.jpg
+│   ├── taxpayer_table1.png
+│   ├── taxpayer_table2.png
+│   ├── taxpayer_table3.png
+│   ├── taxpayer_table4.png
+│   ├── taxpayer_table5.png
+│   ├── dependents_table.png
+│   ├── income_table.png
+│   ├── deductions_table.png
+│   ├── credits_table.png
+│   ├── payments_table.png
+│   ├── refunds_table.png
+│   ├── amountowed_table.png
+│
+├── tables/
+│   ├── table1.csv
+│   ├── table2.csv
+│   └── ...
+├── scripts/
+│   ├── main.py
+│   ├── eda.py
+│   └── modeling.py
+└── data/
+    ├── raw_data.csv
+    ├── cleaned_data.csv
+    └── ...
+</pre>
 
-## **Estructura del Proyecto**
-Descripción de los documentos y directorios incluidos en el proyecto.
-- `README.md`: Descripción general del proyecto.
-- `1 Creacion del Laboratorio y Database Management System.ipynb`: Desarrollo del proyecto - Parte 1.
-- `2 Analisi y Respuesta a las Preguntas de Negocio.ipynb`: Desarrollo del proyecto - Parte 2.
-- `imagenes/`: Directorio que contiene imágenes utilizadas en los documentos.
-- `tablas/`: Directorio que contiene tablas de datos utilizadas en los análisis.
-
-## Instalación
-1. Clonar el repositorio:
+## Installation
+1. Clone the repository:
    ```bash
    git clone https://github.com/aronds/tax_services_analytics.git
-2. Instalar las dependencias:
-    ```bash
-    pip install -r requirements.txt
-## **Uso**
-    python main.py
-## **Introducción**
-**Antecedentes**
-El sistema de recaudación de impuestos en los Estados Unidos es complejo y presenta múltiples desafíos tanto para los contribuyentes como para los servicios de impuestos.
-**Contexto y Relevancia del Problema**
-Este proyecto busca mejorar la eficiencia y precisión del proceso de declaración de impuestos mediante técnicas avanzadas de análisis de datos.
-Alcance y Limitaciones
-**Alcance y limitaciones**
-Alcance: Optimización de servicios de impuestos utilizando análisis de datos y modelado predictivo.
-Limitaciones: Disponibilidad y calidad de los datos.
-## **Objetivos**
-* Crear un ecosystem artificial controlado para la simulacion de problemas de
-* Realizar un análisis exploratorio de datos (EDA) para identificar patrones y responder pregunas iniciales.
-* Crear Datasets spesificos para responder las preguntas del negocio. 
-* Desarrollar modelos predictivos basados en los hallazgos del EDA.
-* Evaluar la efectividad de diferentes modelos de clasificación y regresión.
-## **Descripción de los Datos**
-Para fines prácticos, hemos creado un dataset sintético que nos permite omitir procesos previos como la limpieza de datos. Esto ahorra tiempo, procesamiento y recursos, y nos permite enfocarnos en el análisis y las soluciones. En un entorno con datos reales, algunas de las tareas necesarias incluirían:
+## Install the dependencies:
+`pip install -r requirements.txt
+## Usage
+python main.py
+## **Introduction**
+**Background**
+The tax collection system in the United States is complex and presents multiple challenges for both taxpayers and tax services.
 
-- Limpieza de datos para eliminar inconsistencias y errores.
-- Validación de datos para asegurar la precisión.
-- Transformación de datos para adecuarlos a los requisitos del análisis.
-- Entre otros errores:
-* Inconsistencias en los datos personales:
-Solución: Implementar validaciones de datos al ingresar información, como verificaciones de formato para el SSN y direcciones.
-* Duplicidad de registros:
-Solución: Utilizar claves únicas y controles de integridad referencial para evitar la duplicación de registros.
-* Cálculos incorrectos de impuestos:
-Solución: Desarrollar algoritmos de verificación para recalcular automáticamente los impuestos basados en los datos ingresados y compararlos con los cálculos del IRS.
-* Seguridad de los datos:
-Solución: Encriptar los datos sensibles y restringir el acceso a los datos personales únicamente al personal autorizado.
-* Errores en la categorización de ingresos y deducciones:
-Solución: Crear listas desplegables con opciones predefinidas para los tipos de ingresos y deducciones, minimizando los errores de categorización.
-* Actualización de datos
-Solución: Implementar un sistema de versionado para mantener un historial de cambios en los datos y permitir la restauración de versiones anteriores si es necesario.
+**Context and Relevance of the Problem**
+This project aims to improve the efficiency and accuracy of the tax filing process using advanced data analysis techniques.
+
+**Scope**
+Optimization of tax services using data analysis and predictive modeling.
+
+**Limitations**
+Availability and quality of data.
+
+## **Objectives**
+* Create a controlled artificial ecosystem for problem simulation.
+* Perform exploratory data analysis (EDA) to identify patterns and answer initial questions.
+* Create specific datasets to address business questions.
+* Develop predictive models based on EDA findings.
+* Evaluate the effectiveness of different classification and regression models.
+
+## **Data Description**
+For practical purposes, we have created a synthetic dataset that allows us to skip previous processes such as data cleaning. This saves time, processing, and resources, enabling us to focus on analysis and solutions. In a real data environment, some of the necessary tasks would include:
+
+- Data cleaning to remove inconsistencies and errors.
+- Data validation to ensure accuracy.
+- Data transformation to meet analysis requirements.
+- Among other errors:
+  * Inconsistencies in personal data:
+    - Solution: Implement data validations when entering information, such as format checks for SSNs and addresses.
+  * Duplicate records:
+    - Solution: Use unique keys and referential integrity controls to prevent record duplication.
+  * Incorrect tax calculations:
+    - Solution: Develop verification algorithms to automatically recalculate taxes based on entered data and compare them with IRS calculations.
+  * Data security:
+    - Solution: Encrypt sensitive data and restrict access to personal data only to authorized personnel.
+  * Errors in income and deduction categorization:
+    - Solution: Create dropdown lists with predefined options for income and deduction types, minimizing categorization errors.
+  * Data updates:
+    - Solution: Implement a version control system to maintain a history of data changes and allow restoration of previous versions if necessary.
+
 ---
 ## RDMS (Relational Database Management System)
 **Taxpayers and Dependents**
@@ -260,207 +299,165 @@ Solución: Implementar un sistema de versionado para mantener un historial de ca
         </td>
     </tr>
 </table>
-
 ## Metadata
-**Resumen del Sistema**
-- **Cantidad de Tablas**: 8
-- **Total de Columnas**: 68
-- **Total de Filas (estimado con datos sintéticos)**: 1000 por tabla (ajustable según necesidades)
+**System Summary**
+- **Number of Tables**: 8
+- **Total Columns**: 68
+- **Estimated Total Rows (with synthetic data)**: 1000 per table (adjustable as needed)
 
-## Detalle de Tablas y Campos
+## Table and Field Details
 
-#### Tabla: Taxpayers
-**Descripción**: Almacena información básica sobre los contribuyentes.
+#### Table: Taxpayers
+**Description**: Stores basic information about taxpayers.
 
-**Columnas**: 42
-- **taxpayer_id**: `INT` (Primary Key) - Identificador único del contribuyente.
-- **first_name**: `VARCHAR(50)` - Nombre del contribuyente.
-- **last_name**: `VARCHAR(50)` - Apellido del contribuyente.
-- **ssn**: `CHAR(11)` - Número de Seguro Social del contribuyente.
-- **filing_status**: `VARCHAR(50)` - Estado de presentación (por ejemplo, Soltero, Casado presentando conjuntamente).
-- **address**: `VARCHAR(100)` - Dirección del contribuyente.
-- **city**: `VARCHAR(50)` - Ciudad del contribuyente.
-- **state**: `CHAR(2)` - Estado del contribuyente.
-- **zip_code**: `CHAR(5)` - Código postal del contribuyente.
-- **email**: `VARCHAR(100)` - Correo electrónico del contribuyente.
-- **phone_number**: `VARCHAR(15)` - Número de teléfono del contribuyente.
-- **employer_name**: `VARCHAR(100)` - Nombre del empleador.
-- **employer_address**: `VARCHAR(100)` - Dirección del empleador.
-- **job_title**: `VARCHAR(50)` - Título del trabajo del contribuyente.
-- **employment_start_date**: `DATE` - Fecha de inicio del empleo.
-- **employment_end_date**: `DATE` - Fecha de fin del empleo.
-- **tax_return_id**: `INT` - Identificador de la declaración de impuestos.
-- **tax_year**: `INT` - Año fiscal.
-- **filing_date**: `DATE` - Fecha de presentación.
-- **return_type**: `VARCHAR(50)` - Tipo de declaración (por ejemplo, Individual, Conjunta, Enmendada).
-- **income_source**: `VARCHAR(50)` - Fuente de ingresos.
-- **income_frequency**: `VARCHAR(10)` - Frecuencia de ingresos (Mensual, Anual).
-- **taxable_amount**: `DECIMAL(10, 2)` - Monto imponible.
-- **deduction_category**: `VARCHAR(50)` - Categoría de deducción.
-- **deduction_description**: `VARCHAR(100)` - Descripción de la deducción.
-- **credit_description**: `VARCHAR(100)` - Descripción del crédito.
-- **credit_eligibility**: `VARCHAR(20)` - Elegibilidad para el crédito (Eligible, Not Eligible).
-- **payment_date**: `DATE` - Fecha de pago.
-- **payment_method**: `VARCHAR(50)` - Método de pago.
-- **refund_date**: `DATE` - Fecha de reembolso.
-- **refund_reason**: `VARCHAR(50)` - Razón del reembolso.
-- **amount_owed_due_date**: `DATE` - Fecha de vencimiento del monto adeudado.
-- **amount_owed_reason**: `VARCHAR(50)` - Razón del monto adeudado.
-- **property_type**: `VARCHAR(50)` - Tipo de propiedad.
-- **property_value**: `DECIMAL(10, 2)` - Valor de la propiedad.
-- **mortgage_interest_paid**: `DECIMAL(10, 2)` - Intereses hipotecarios pagados.
-- **taxpayer_occupation**: `VARCHAR(50)` - Ocupación del contribuyente.
-- **previous_year_income**: `DECIMAL(10, 2)` - Ingresos del año anterior.
-- **state_tax_refund**: `DECIMAL(10, 2)` - Reembolso de impuestos estatales.
-- **local_tax_refund**: `DECIMAL(10, 2)` - Reembolso de impuestos locales.
-- **estimated_tax_payments_made**: `DECIMAL(10, 2)` - Pagos de impuestos estimados realizados.
-- **tax_liability**: `DECIMAL(10, 2)` - Obligación tributaria.
+**Columns**: 42
+- **taxpayer_id**: `INT` (Primary Key) - Unique identifier for the taxpayer.
+- **first_name**: `VARCHAR(50)` - Taxpayer's first name.
+- **last_name**: `VARCHAR(50)` - Taxpayer's last name.
+- **ssn**: `CHAR(11)` - Social Security Number of the taxpayer.
+- **filing_status**: `VARCHAR(50)` - Filing status (e.g., Single, Married Filing Jointly).
+- **address**: `VARCHAR(100)` - Taxpayer's address.
+- **city**: `VARCHAR(50)` - Taxpayer's city.
+- **state**: `CHAR(2)` - Taxpayer's state.
+- **zip_code**: `CHAR(5)` - Taxpayer's postal code.
+- **email**: `VARCHAR(100)` - Taxpayer's email.
+- **phone_number**: `VARCHAR(15)` - Taxpayer's phone number.
+- **employer_name**: `VARCHAR(100)` - Employer's name.
+- **employer_address**: `VARCHAR(100)` - Employer's address.
+- **job_title**: `VARCHAR(50)` - Taxpayer's job title.
+- **employment_start_date**: `DATE` - Employment start date.
+- **employment_end_date**: `DATE` - Employment end date.
+- **tax_return_id**: `INT` - Tax return identifier.
+- **tax_year**: `INT` - Fiscal year.
+- **filing_date**: `DATE` - Filing date.
+- **return_type**: `VARCHAR(50)` - Return type (e.g., Individual, Joint, Amended).
+- **income_source**: `VARCHAR(50)` - Source of income.
+- **income_frequency**: `VARCHAR(10)` - Income frequency (Monthly, Annual).
+- **taxable_amount**: `DECIMAL(10, 2)` - Taxable amount.
+- **deduction_category**: `VARCHAR(50)` - Deduction category.
+- **deduction_description**: `VARCHAR(100)` - Description of the deduction.
+- **credit_description**: `VARCHAR(100)` - Description of the credit.
+- **credit_eligibility**: `VARCHAR(20)` - Credit eligibility (Eligible, Not Eligible).
+- **payment_date**: `DATE` - Payment date.
+- **payment_method**: `VARCHAR(50)` - Payment method.
+- **refund_date**: `DATE` - Refund date.
+- **refund_reason**: `VARCHAR(50)` - Reason for the refund.
+- **amount_owed_due_date**: `DATE` - Due date for amount owed.
+- **amount_owed_reason**: `VARCHAR(50)` - Reason for the amount owed.
+- **property_type**: `VARCHAR(50)` - Type of property.
+- **property_value**: `DECIMAL(10, 2)` - Property value.
+- **mortgage_interest_paid**: `DECIMAL(10, 2)` - Mortgage interest paid.
+- **taxpayer_occupation**: `VARCHAR(50)` - Taxpayer's occupation.
+- **previous_year_income**: `DECIMAL(10, 2)` - Previous year's income.
+- **state_tax_refund**: `DECIMAL(10, 2)` - State tax refund.
+- **local_tax_refund**: `DECIMAL(10, 2)` - Local tax refund.
+- **estimated_tax_payments_made**: `DECIMAL(10, 2)` - Estimated tax payments made.
+- **tax_liability**: `DECIMAL(10, 2)` - Tax liability.
 ![](imagenes/taxpayer_table1.png)
 ![](imagenes/taxpayer_table2.png)
 ![](imagenes/taxpayer_table3.png)
 ![](imagenes/taxpayer_table4.png)
 ![](imagenes/taxpayer_table5.png)
 ---
-#### Tabla: Dependents
-**Descripción**: Almacena información sobre los dependientes de los contribuyentes.
-**Columnas**: 7
-- **dependent_id**: `INT` (Primary Key) - Identificador único del dependiente.
-- **taxpayer_id**: `INT` (Foreign Key) - Identificador del contribuyente asociado.
-- **first_name**: `VARCHAR(50)` - Nombre del dependiente.
-- **last_name**: `VARCHAR(50)` - Apellido del dependiente.
-- **ssn**: `CHAR(11)` - Número de Seguro Social del dependiente.
-- **relationship**: `VARCHAR(50)` - Relación del dependiente con el contribuyente.
-- **qualifies_for_credit**: `BOOLEAN` - Indica si el dependiente califica para créditos fiscales.
+#### Table: Dependents
+**Description**: Stores information about taxpayers' dependents.
+
+**Columns**: 7
+- **dependent_id**: `INT` (Primary Key) - Unique identifier for the dependent.
+- **taxpayer_id**: `INT` (Foreign Key) - Identifier of the associated taxpayer.
+- **first_name**: `VARCHAR(50)` - Dependent's first name.
+- **last_name**: `VARCHAR(50)` - Dependent's last name.
+- **ssn**: `CHAR(11)` - Social Security Number of the dependent.
+- **relationship**: `VARCHAR(50)` - Relationship of the dependent to the taxpayer.
+- **qualifies_for_credit**: `BOOLEAN` - Indicates if the dependent qualifies for tax credits.
 ![](imagenes/dependents_table.png)
 ---
-#### Tabla: Income
-**Descripción**: Almacena información sobre los ingresos de los contribuyentes.
+#### Table: Income
+**Description**: Stores information about taxpayers' income.
 
-**Columnas**: 4
-- **income_id**: `INT` (Primary Key) - Identificador único del ingreso.
-- **taxpayer_id**: `INT` (Foreign Key) - Identificador del contribuyente asociado.
-- **income_type**: `VARCHAR(50)` - Tipo de ingreso.
-- **amount**: `DECIMAL(10, 2)` - Monto del ingreso.
+**Columns**: 4
+- **income_id**: `INT` (Primary Key) - Unique identifier for the income.
+- **taxpayer_id**: `INT` (Foreign Key) - Identifier of the associated taxpayer.
+- **income_type**: `VARCHAR(50)` - Type of income.
+- **amount**: `DECIMAL(10, 2)` - Amount of income.
 ![](imagenes/income_table.png)
 ---
-#### Tabla: Deductions
-**Descripción**: Almacena información sobre las deducciones de los contribuyentes.
-**Columnas**: 4
-- **deduction_id**: `INT` (Primary Key) - Identificador único de la deducción.
-- **taxpayer_id**: `INT` (Foreign Key) - Identificador del contribuyente asociado.
-- **deduction_type**: `VARCHAR(50)` - Tipo de deducción.
-- **amount**: `DECIMAL(10, 2)` - Monto de la deducción.
+#### Table: Deductions
+**Description**: Stores information about taxpayers' deductions.
+
+**Columns**: 4
+- **deduction_id**: `INT` (Primary Key) - Unique identifier for the deduction.
+- **taxpayer_id**: `INT` (Foreign Key) - Identifier of the associated taxpayer.
+- **deduction_type**: `VARCHAR(50)` - Type of deduction.
+- **amount**: `DECIMAL(10, 2)` - Amount of deduction.
 ![](imagenes/deductions_table.png)
 ---
-#### Tabla: Credits
-**Descripción**: Almacena información sobre los créditos fiscales de los contribuyentes.
+#### Table: Credits
+**Description**: Stores information about taxpayers' tax credits.
 
-**Columnas**: 4
-- **credit_id**: `INT` (Primary Key) - Identificador único del crédito.
-- **taxpayer_id**: `INT` (Foreign Key) - Identificador del contribuyente asociado.
-- **credit_type**: `VARCHAR(50)` - Tipo de crédito.
-- **amount**: `DECIMAL(10, 2)` - Monto del crédito.
+**Columns**: 4
+- **credit_id**: `INT` (Primary Key) - Unique identifier for the credit.
+- **taxpayer_id**: `INT` (Foreign Key) - Identifier of the associated taxpayer.
+- **credit_type**: `VARCHAR(50)` - Type of credit.
+- **amount**: `DECIMAL(10, 2)` - Amount of credit.
 ![](imagenes/credits_table.png)
 ---
-#### Tabla: Payments
-**Descripción**: Almacena información sobre los pagos realizados por los contribuyentes.
+#### Table: Payments
+**Description**: Stores information about payments made by taxpayers.
 
-**Columnas**: 4
-- **payment_id**: `INT` (Primary Key) - Identificador único del pago.
-- **taxpayer_id**: `INT` (Foreign Key) - Identificador del contribuyente asociado.
-- **payment_type**: `VARCHAR(50)` - Tipo de pago.
-- **amount**: `DECIMAL(10, 2)` - Monto del pago.
+**Columns**: 4
+- **payment_id**: `INT` (Primary Key) - Unique identifier for the payment.
+- **taxpayer_id**: `INT` (Foreign Key) - Identifier of the associated taxpayer.
+- **payment_type**: `VARCHAR(50)` - Type of payment.
+- **amount**: `DECIMAL(10, 2)` - Amount of payment.
 ![](imagenes/payments_table.png)
 
-#### Tabla: Refunds
-**Descripción**: Almacena información sobre los reembolsos recibidos por los contribuyentes.
+#### Table: Refunds
+**Description**: Stores information about refunds received by taxpayers.
 
-**Columnas**: 3
-- **refund_id**: `INT` (Primary Key) - Identificador único del reembolso.
-- **taxpayer_id**: `INT` (Foreign Key) - Identificador del contribuyente asociado.
-- **refund_amount**: `DECIMAL(10, 2)` - Monto del reembolso.
+**Columns**: 3
+- **refund_id**: `INT` (Primary Key) - Unique identifier for the refund.
+- **taxpayer_id**: `INT` (Foreign Key) - Identifier of the associated taxpayer.
+- **refund_amount**: `DECIMAL(10, 2)` - Amount of the refund.
 ![](imagenes/refunds_table.png)
 ---
-#### Tabla: Amounts Owed
-**Descripción**: Almacena información sobre los montos adeudados por los contribuyentes.
+#### Table: Amounts Owed
+**Description**: Stores information about amounts owed by taxpayers.
 
-**Columnas**: 3
-- **amount_owed_id**: `INT` (Primary Key) - Identificador único del monto adeudado.
-- **taxpayer_id**: `INT` (Foreign Key) - Identificador del contribuyente asociado.
-- **amount**: `DECIMAL(10, 2)` - Monto adeudado.
+**Columns**: 3
+- **amount_owed_id**: `INT` (Primary Key) - Unique identifier for the amount owed.
+- **taxpayer_id**: `INT` (Foreign Key) - Identifier of the associated taxpayer.
+- **amount**: `DECIMAL(10, 2)` - Amount owed.
 ![](imagenes/amountowed_table.png)
 ---
-## **Metodología**
-   - Descripción de los métodos y técnicas utilizadas en esta fase del proyecto.
-## **Análisis Exploratorio de Datos (EDA)**
-   - Descripción y visualización de los datos.
-   - Tipos de deducciones y créditos.
-   - Gráficos de distribución de ingresos.
-   - Mapas de calor para identificar correlaciones.
-## **Resultados Iniciales**
-   - Hallazgos preliminares del análisis.
-   - Identificación de patrones de ingresos por estado.
-   - Correlaciones entre tipos de deducciones y créditos.
-## **Modelado Predictivo**
-   - Descripción de los modelos utilizados, su entrenamiento y evaluación.
-## **Validación y Evaluación**
-   - Resultados de la validación cruzada y métricas de evaluación.
-## **Resultados y Discusión**
-   - Interpretación de los resultados obtenidos.
-   - Resultados de la validación cruzada y métricas de evaluación.
-   - Interpretación de los resultados obtenidos.
-   - Comparación con estudios previos.
-   - Implicaciones de los hallazgos.
-## **Conclusiones y Recomendaciones**
-   - Principales conclusiones del proyecto:
-   - Recomendaciones para la implementación práctica y futuros trabajos:
-   Este proyecto crea una base sólida para gestionar y analizar datos de servicios de impuestos, utilizando un enfoque estructurado y datos sintéticos para garantizar la privacidad y seguridad de la información. El sistema permite la identificación y solución de problemas comunes en la industria de los servicios de impuestos, proporcionando una plataforma robusta para análisis y mejoras continuas.
+## **Methodology**
+   - Description of the methods and techniques used in this phase of the project.
+## **Exploratory Data Analysis (EDA)**
+   - Description and visualization of the data.
+   - Types of deductions and credits.
+   - Income distribution charts.
+   - Heatmaps to identify correlations.
+## **Initial Results**
+   - Preliminary findings from the analysis.
+   - Identification of income patterns by state.
+   - Correlations between types of deductions and credits.
+## **Predictive Modeling**
+   - Description of the models used, their training, and evaluation.
+## **Validation and Evaluation**
+   - Results of cross-validation and evaluation metrics.
+## **Results and Discussion**
+   - Interpretation of the obtained results.
+   - Results of cross-validation and evaluation metrics.
+   - Comparison with previous studies.
+   - Implications of the findings.
+## **Conclusions and Recommendations**
+   - Main conclusions of the project:
+   - Recommendations for practical implementation and future work:
+   This project creates a solid foundation for managing and analyzing tax services data, using a structured approach and synthetic data to ensure privacy and information security. The system allows for the identification and resolution of common issues in the tax services industry, providing a robust platform for ongoing analysis and improvements.
    
-## **Estructura de Directorios**
-
-<pre>
-tu_proyecto/
-│
-├── README.md
-├── 1_Creación del Laboratorio y Database Management System.ipynb
-├── 2_Análisis y Respuesta a las Preguntas de Negocio.ipynb
-├── imagenes/
-│   ├── portada.jpg
-│   ├── taxpayer_table1.png
-│   ├── taxpayer_table2.png
-│   ├── taxpayer_table3.png
-│   ├── taxpayer_table4.png
-│   ├── taxpayer_table5.png
-│   ├── dependents_table.png
-│   ├── income_table.png
-│   ├── deductions_table.png
-│   ├── credits_table.png
-│   ├── payments_table.png
-│   ├── refunds_table.png
-│   ├── amountowed_table.png
-│
-├── tablas/
-│   ├── tabla1.csv
-│   ├── tabla2.csv
-│   └── ...
-├── scripts/
-│   ├── main.py
-│   ├── eda.py
-│   └── modelado.py
-└── data/
-    ├── datos_crudos.csv
-    ├── datos_limpios.csv
-    └── ...
-</pre>
-
-## **Contribuciones**
-     Para contribuir, por favor abre un issue o envía un pull request.
-## **Licencia**
-   Este proyecto está bajo la Licencia MIT.
-## **Contacto**
-   Para más información, contactar a Arom Antinao a través de coregroup.proyect@gmail.com
----
-
-"""
-
-
+## **Contributions**
+   To contribute, please open an issue or submit a pull request.
+## **License**
+   This project is licensed under the MIT License.
+## **Contact**
+   For more information, contact Arom Antinao at coregroup.proyect@gmail.com
