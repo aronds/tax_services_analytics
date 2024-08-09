@@ -1,0 +1,7 @@
+faker
+pandas
+numpy
+matplotlib
+ploty.express
+ploty.graph_objects
+datetime

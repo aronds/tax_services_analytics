@@ -1,20 +1,23 @@
 # Database Management System & Analytics for Tax Services Business
 
 <p align="center">
-  <img src="wallpaper1.jpg" />
+  <img src="imagenes/cover.jpg" />
 </p>
 
 ---
 
 ## Contents
-1. [Cover Title](#cover-title)
-2. [Description](#description)
+1. [Title](#title)
+2. [Description](#description)1
+3. [Project Structure](#project-structure)
+6. [Directory Structure](#directory-structure)
 3. [Installation](#installation)
 4. [Introduction](#introduction)
 5. [Objectives](#objectives)
-6. [Project Organization](#project-organization)
-7. [Installation](#installation)
-8. [Usage](#usage)
+7. [Data Description](#data-description)
+    - RDMS (Relational Database Management System)
+    - Metadata
+    - Table and Field Details
 9. [Methodology](#methodology)
 10. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 11. [Predictive Modeling](#predictive-modeling)
@@ -38,7 +41,7 @@ The project is modular and organized into several documents detailing system dev
 ## **Project Structure**
 Description of the documents and directories included in the project.
 - `README.md`: General project description.
-- `1_Laboratory_Creation_and_Database_Management_System.ipynb`: Project Development - Part 1.
+- `1_Database and Analytics Framework Development.ipynb`: Project Development - Part 1.
 - `2_Analysis_and_Business_Questions_Answers.ipynb`: Project Development - Part 2.
 - `images/`: Directory containing images used in the documents.
 - `tables/`: Directory containing data tables used in the analyses.
@@ -68,13 +71,21 @@ your_project/
 │   ├── amountowed_table.png
 │
 ├── tables/
-│   ├── table1.csv
-│   ├── table2.csv
-│   └── ...
+│   ├── taxpayers.csv
+│   ├── dependents.csv
+│   └── imcome.csv
+│   └── deductions.csv
+│   └── credits.csv
+│   └── payments.csv
+│   └── refunds.csv
+│   └── amountowed.csv
 ├── scripts/
 │   ├── main.py
 │   ├── eda.py
 │   └── modeling.py
+│   └── train.py
+│   └── test.py
+│   └── ...
 └── data/
     ├── raw_data.csv
     ├── cleaned_data.csv
@@ -85,11 +96,12 @@ your_project/
 1. Clone the repository:
    ```bash
    git clone https://github.com/aronds/tax_services_analytics.git
-## Install the dependencies:
+2. Install the dependencies:
 `pip install -r requirements.txt
 ## Usage
 python main.py
 ## **Introduction**
+
 **Background**
 The tax collection system in the United States is complex and presents multiple challenges for both taxpayers and tax services.
 
@@ -299,6 +311,7 @@ For practical purposes, we have created a synthetic dataset that allows us to sk
         </td>
     </tr>
 </table>
+
 ## Metadata
 **System Summary**
 - **Number of Tables**: 8
