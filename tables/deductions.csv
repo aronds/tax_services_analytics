@@ -1,0 +1,1001 @@
+taxpayer_id,deduction_id,deduction_type,amount
+912,1,Charitable Donations,2889
+583,2,Home Office,3528
+424,3,Investment Expenses,1939
+273,4,Local Taxes Paid,8264
+704,5,Business Expenses,9638
+553,6,Investment Expenses,740
+319,7,Charitable Donations,6379
+855,8,Educational Expenses,9050
+189,9,Mortgage Interest,1651
+447,10,State Taxes Paid,9480
+453,11,Educational Expenses,5088
+906,12,Casualty and Theft Losses,7192
+202,13,Childcare Expenses,3452
+260,14,Educational Expenses,9081
+195,15,Business Expenses,8676
+914,16,Home Office,921
+758,17,Home Office,8637
+49,18,Retirement Contributions,3791
+612,19,Charitable Donations,1532
+513,20,Charitable Donations,1825
+826,21,State Taxes Paid,5609
+1000,22,Charitable Donations,2127
+624,23,Casualty and Theft Losses,6172
+830,24,Home Office,9217
+560,25,Local Taxes Paid,5137
+414,26,Business Expenses,3923
+694,27,Mortgage Interest,1021
+870,28,Investment Expenses,4929
+680,29,Investment Expenses,1211
+633,30,Educational Expenses,9486
+770,31,Charitable Donations,8902
+543,32,Mortgage Interest,1862
+96,33,State Taxes Paid,1143
+533,34,Retirement Contributions,6513
+510,35,Childcare Expenses,5849
+109,36,Home Office,4997
+842,37,Other,1284
+606,38,Childcare Expenses,8354
+427,39,Moving Expenses,6603
+879,40,Moving Expenses,7306
+642,41,Mortgage Interest,8268
+889,42,Casualty and Theft Losses,2695
+749,43,Medical Expenses,934
+801,44,Casualty and Theft Losses,8641
+449,45,Childcare Expenses,5467
+937,46,Retirement Contributions,4078
+404,47,Childcare Expenses,3410
+466,48,Mortgage Interest,6411
+45,49,Business Expenses,985
+759,50,Local Taxes Paid,7335
+615,51,Business Expenses,1169
+242,52,Other,2442
+79,53,Other,6427
+1000,54,Local Taxes Paid,2074
+725,55,Business Expenses,3135
+641,56,Casualty and Theft Losses,7013
+2,57,Casualty and Theft Losses,8324
+135,58,Investment Expenses,4083
+284,59,Charitable Donations,5781
+48,60,Home Office,9414
+186,61,Other,7672
+158,62,Local Taxes Paid,3360
+456,63,Casualty and Theft Losses,5869
+640,64,Other,7995
+54,65,Home Office,4503
+292,66,Business Expenses,9947
+924,67,State Taxes Paid,7789
+322,68,Investment Expenses,6770
+156,69,State Taxes Paid,8697
+374,70,Retirement Contributions,3136
+405,71,Mortgage Interest,2767
+543,72,Childcare Expenses,5736
+217,73,Retirement Contributions,7461
+118,74,Charitable Donations,6055
+776,75,Medical Expenses,1297
+37,76,Retirement Contributions,6349
+317,77,Charitable Donations,577
+317,78,Moving Expenses,4363
+954,79,Home Office,588
+941,80,Home Office,194
+188,81,Casualty and Theft Losses,4556
+37,82,Moving Expenses,5775
+330,83,Medical Expenses,820
+480,84,Educational Expenses,5168
+837,85,Childcare Expenses,3876
+171,86,Home Office,937
+234,87,Medical Expenses,1043
+893,88,Home Office,1533
+625,89,Moving Expenses,4132
+395,90,Business Expenses,6922
+465,91,Home Office,3135
+723,92,Moving Expenses,9830
+6,93,Educational Expenses,75
+682,94,Casualty and Theft Losses,2461
+849,95,Charitable Donations,881
+178,96,Business Expenses,5016
+861,97,Casualty and Theft Losses,2763
+621,98,Home Office,7778
+393,99,Investment Expenses,8607
+426,100,Childcare Expenses,1886
+218,101,Educational Expenses,1518
+476,102,Educational Expenses,535
+173,103,Other,2480
+577,104,Mortgage Interest,2767
+335,105,Casualty and Theft Losses,9916
+854,106,Retirement Contributions,9892
+672,107,Mortgage Interest,5978
+826,108,Local Taxes Paid,9901
+278,109,Local Taxes Paid,5398
+961,110,Moving Expenses,671
+852,111,Moving Expenses,520
+180,112,Mortgage Interest,4014
+684,113,Investment Expenses,3809
+616,114,Retirement Contributions,1640
+580,115,Home Office,6090
+643,116,Mortgage Interest,705
+900,117,Local Taxes Paid,641
+373,118,Casualty and Theft Losses,9982
+105,119,Other,8194
+915,120,Business Expenses,4393
+231,121,Casualty and Theft Losses,6845
+233,122,Home Office,6733
+297,123,Investment Expenses,7081
+718,124,Medical Expenses,5983
+566,125,Home Office,2445
+627,126,Investment Expenses,7227
+600,127,Moving Expenses,9907
+67,128,Charitable Donations,5052
+880,129,Business Expenses,7231
+592,130,Moving Expenses,724
+320,131,State Taxes Paid,7822
+901,132,Other,4400
+999,133,Investment Expenses,752
+422,134,Local Taxes Paid,294
+136,135,Retirement Contributions,4667
+35,136,Home Office,4858
+495,137,State Taxes Paid,5296
+974,138,Home Office,7593
+446,139,State Taxes Paid,198
+92,140,Childcare Expenses,4461
+669,141,Home Office,8907
+875,142,Business Expenses,5910
+43,143,Home Office,3928
+804,144,Medical Expenses,721
+810,145,Home Office,2015
+777,146,State Taxes Paid,2870
+274,147,Local Taxes Paid,4509
+817,148,Charitable Donations,5306
+580,149,Other,1093
+664,150,State Taxes Paid,3784
+455,151,State Taxes Paid,9854
+134,152,Medical Expenses,7910
+478,153,Charitable Donations,2734
+282,154,Mortgage Interest,5115
+152,155,Educational Expenses,2967
+913,156,Moving Expenses,2326
+691,157,Other,3281
+289,158,Investment Expenses,965
+305,159,Charitable Donations,1859
+103,160,Business Expenses,9831
+242,161,State Taxes Paid,1183
+78,162,Home Office,3163
+986,163,State Taxes Paid,939
+658,164,Retirement Contributions,9876
+643,165,Childcare Expenses,5289
+230,166,Home Office,7502
+899,167,Childcare Expenses,6358
+613,168,Other,2853
+901,169,Moving Expenses,8398
+855,170,State Taxes Paid,2048
+308,171,Casualty and Theft Losses,8866
+729,172,Educational Expenses,9532
+456,173,Local Taxes Paid,1362
+21,174,Local Taxes Paid,1475
+773,175,Home Office,1593
+452,176,Educational Expenses,1370
+658,177,Casualty and Theft Losses,5018
+945,178,Other,7386
+975,179,Investment Expenses,5230
+680,180,Business Expenses,9531
+988,181,Mortgage Interest,6675
+206,182,Investment Expenses,6109
+704,183,Moving Expenses,8650
+892,184,Other,6648
+324,185,Investment Expenses,3913
+378,186,Mortgage Interest,2733
+328,187,Local Taxes Paid,1805
+41,188,Moving Expenses,7120
+471,189,Childcare Expenses,2740
+823,190,Other,8960
+232,191,Moving Expenses,3365
+913,192,State Taxes Paid,7443
+494,193,State Taxes Paid,1221
+130,194,Local Taxes Paid,8523
+376,195,Casualty and Theft Losses,2760
+189,196,Mortgage Interest,8512
+376,197,Casualty and Theft Losses,4119
+141,198,Childcare Expenses,3985
+143,199,Childcare Expenses,2647
+20,200,Medical Expenses,3080
+117,201,Local Taxes Paid,1607
+532,202,Medical Expenses,5916
+598,203,Childcare Expenses,7490
+347,204,Childcare Expenses,6083
+95,205,Business Expenses,7550
+434,206,Investment Expenses,598
+379,207,Childcare Expenses,297
+738,208,Mortgage Interest,1361
+538,209,Other,4404
+407,210,Investment Expenses,2724
+919,211,Local Taxes Paid,4258
+990,212,Local Taxes Paid,9344
+344,213,Childcare Expenses,5387
+875,214,Home Office,9491
+955,215,Educational Expenses,2878
+526,216,Moving Expenses,6059
+931,217,Retirement Contributions,2844
+24,218,Home Office,7769
+469,219,Business Expenses,8626
+355,220,State Taxes Paid,8959
+136,221,Casualty and Theft Losses,2484
+951,222,Moving Expenses,7013
+938,223,Business Expenses,8893
+954,224,Educational Expenses,5958
+198,225,Casualty and Theft Losses,6618
+570,226,Childcare Expenses,7758
+503,227,Other,8975
+496,228,State Taxes Paid,2586
+997,229,Investment Expenses,5191
+895,230,Mortgage Interest,8679
+954,231,Home Office,907
+903,232,Educational Expenses,202
+189,233,Other,7765
+881,234,Investment Expenses,3427
+442,235,Home Office,7345
+866,236,Investment Expenses,3621
+429,237,State Taxes Paid,8769
+207,238,Medical Expenses,885
+166,239,Business Expenses,8151
+415,240,State Taxes Paid,4347
+333,241,Other,8553
+94,242,Childcare Expenses,9187
+586,243,Other,1362
+960,244,Business Expenses,6148
+25,245,Educational Expenses,4886
+972,246,Local Taxes Paid,7924
+173,247,Mortgage Interest,5218
+621,248,Other,2544
+425,249,Investment Expenses,271
+937,250,Retirement Contributions,7894
+779,251,Childcare Expenses,3656
+77,252,Casualty and Theft Losses,1880
+79,253,Mortgage Interest,5308
+534,254,Moving Expenses,8889
+221,255,Mortgage Interest,301
+982,256,Charitable Donations,9712
+581,257,Mortgage Interest,8911
+173,258,Moving Expenses,2412
+568,259,State Taxes Paid,7273
+882,260,Retirement Contributions,5842
+296,261,Childcare Expenses,2637
+464,262,Home Office,2279
+684,263,Casualty and Theft Losses,6920
+124,264,Moving Expenses,9580
+629,265,Childcare Expenses,1280
+973,266,State Taxes Paid,2792
+482,267,Medical Expenses,8266
+959,268,Medical Expenses,5691
+968,269,Charitable Donations,9010
+93,270,State Taxes Paid,9179
+181,271,Business Expenses,9262
+7,272,Business Expenses,7363
+631,273,Business Expenses,9087
+127,274,Local Taxes Paid,5110
+101,275,Childcare Expenses,3412
+23,276,Investment Expenses,2040
+294,277,Other,4642
+513,278,Medical Expenses,6117
+233,279,Retirement Contributions,924
+881,280,Moving Expenses,9999
+60,281,Business Expenses,812
+610,282,Other,823
+199,283,Home Office,8214
+194,284,Mortgage Interest,2369
+32,285,Home Office,7168
+665,286,Retirement Contributions,448
+489,287,State Taxes Paid,9467
+99,288,Charitable Donations,2190
+641,289,Moving Expenses,8861
+688,290,Childcare Expenses,4959
+322,291,Local Taxes Paid,4416
+16,292,Local Taxes Paid,5335
+914,293,Home Office,5651
+839,294,Retirement Contributions,4469
+340,295,State Taxes Paid,2588
+866,296,Investment Expenses,36
+484,297,Casualty and Theft Losses,1221
+622,298,Moving Expenses,2767
+257,299,Local Taxes Paid,9179
+379,300,Local Taxes Paid,6997
+652,301,Mortgage Interest,4768
+137,302,Investment Expenses,7952
+887,303,Retirement Contributions,9221
+935,304,Educational Expenses,6013
+159,305,Investment Expenses,3130
+525,306,Local Taxes Paid,6436
+550,307,Charitable Donations,2197
+872,308,Business Expenses,7313
+368,309,Charitable Donations,5294
+742,310,Home Office,3541
+236,311,Educational Expenses,5709
+441,312,Casualty and Theft Losses,5003
+479,313,Childcare Expenses,3794
+690,314,Investment Expenses,9275
+582,315,Mortgage Interest,6769
+946,316,Casualty and Theft Losses,7272
+825,317,Local Taxes Paid,1753
+611,318,Local Taxes Paid,104
+606,319,Other,8303
+793,320,Medical Expenses,977
+848,321,Business Expenses,4989
+938,322,Charitable Donations,8305
+334,323,Medical Expenses,2201
+276,324,Medical Expenses,4072
+680,325,Casualty and Theft Losses,6226
+934,326,Retirement Contributions,7166
+155,327,Educational Expenses,3127
+678,328,Educational Expenses,2751
+402,329,Moving Expenses,355
+462,330,Medical Expenses,9235
+446,331,Childcare Expenses,5259
+679,332,Charitable Donations,8
+178,333,Moving Expenses,3495
+323,334,Moving Expenses,8471
+989,335,Childcare Expenses,7298
+958,336,State Taxes Paid,1913
+651,337,Moving Expenses,5945
+59,338,Childcare Expenses,2445
+340,339,Educational Expenses,9464
+620,340,Home Office,1154
+161,341,Charitable Donations,9919
+765,342,Moving Expenses,4218
+38,343,Mortgage Interest,3265
+666,344,Charitable Donations,1024
+976,345,Moving Expenses,4811
+740,346,Investment Expenses,3366
+473,347,Business Expenses,570
+244,348,Childcare Expenses,1840
+752,349,Home Office,6697
+836,350,Charitable Donations,2808
+369,351,State Taxes Paid,5494
+322,352,Local Taxes Paid,2670
+329,353,Charitable Donations,1516
+76,354,Medical Expenses,9998
+839,355,Childcare Expenses,5634
+749,356,Childcare Expenses,9462
+313,357,Casualty and Theft Losses,7753
+555,358,State Taxes Paid,9039
+748,359,Charitable Donations,3385
+519,360,Other,2250
+317,361,Moving Expenses,2977
+760,362,Retirement Contributions,5554
+29,363,Mortgage Interest,8964
+185,364,Home Office,7477
+400,365,Local Taxes Paid,4889
+490,366,Moving Expenses,201
+95,367,State Taxes Paid,5393
+500,368,Other,7006
+388,369,Moving Expenses,2689
+89,370,Investment Expenses,6621
+972,371,Other,1279
+754,372,Retirement Contributions,4665
+644,373,Investment Expenses,4401
+983,374,Business Expenses,8400
+994,375,Local Taxes Paid,9216
+901,376,Home Office,7366
+915,377,Other,1750
+442,378,Childcare Expenses,9110
+321,379,State Taxes Paid,4580
+828,380,Moving Expenses,9377
+379,381,Childcare Expenses,7371
+239,382,Educational Expenses,9122
+556,383,Childcare Expenses,76
+728,384,Casualty and Theft Losses,9336
+806,385,Mortgage Interest,2927
+525,386,Childcare Expenses,1789
+79,387,State Taxes Paid,9455
+994,388,State Taxes Paid,3333
+26,389,Childcare Expenses,1558
+288,390,State Taxes Paid,6841
+828,391,Educational Expenses,9462
+8,392,Local Taxes Paid,3197
+833,393,Childcare Expenses,1728
+435,394,Mortgage Interest,9009
+529,395,Local Taxes Paid,8488
+55,396,Investment Expenses,9835
+914,397,Casualty and Theft Losses,3801
+115,398,Local Taxes Paid,785
+444,399,Mortgage Interest,1075
+710,400,State Taxes Paid,3699
+366,401,Retirement Contributions,2010
+704,402,Home Office,6318
+732,403,Charitable Donations,5692
+553,404,Mortgage Interest,2099
+939,405,Mortgage Interest,5224
+601,406,Other,8738
+727,407,State Taxes Paid,6752
+799,408,Educational Expenses,5889
+180,409,Business Expenses,3639
+37,410,Retirement Contributions,1141
+197,411,Charitable Donations,4717
+587,412,Charitable Donations,6712
+450,413,Mortgage Interest,7741
+660,414,Investment Expenses,657
+800,415,Educational Expenses,7747
+658,416,Moving Expenses,2796
+379,417,Childcare Expenses,6577
+333,418,Business Expenses,2201
+335,419,State Taxes Paid,1472
+198,420,Other,4453
+946,421,Retirement Contributions,441
+421,422,Retirement Contributions,5461
+728,423,Educational Expenses,1144
+339,424,Medical Expenses,6714
+49,425,Mortgage Interest,4629
+273,426,Moving Expenses,1383
+845,427,Investment Expenses,2072
+863,428,Charitable Donations,357
+789,429,Charitable Donations,7782
+300,430,Mortgage Interest,127
+705,431,Business Expenses,4893
+29,432,Educational Expenses,2308
+915,433,Business Expenses,1945
+449,434,Local Taxes Paid,7996
+97,435,Local Taxes Paid,4893
+300,436,Local Taxes Paid,5225
+352,437,Charitable Donations,2579
+487,438,Home Office,7985
+810,439,Home Office,5605
+862,440,Mortgage Interest,7325
+801,441,Charitable Donations,8786
+950,442,Moving Expenses,7493
+747,443,Retirement Contributions,3119
+754,444,Investment Expenses,5788
+133,445,Moving Expenses,5004
+704,446,Mortgage Interest,4690
+935,447,Casualty and Theft Losses,7755
+317,448,Educational Expenses,8524
+218,449,Business Expenses,7528
+123,450,Casualty and Theft Losses,4520
+209,451,Childcare Expenses,5708
+125,452,Business Expenses,3325
+705,453,Mortgage Interest,1984
+656,454,Charitable Donations,6864
+661,455,Other,6947
+70,456,Childcare Expenses,2853
+252,457,Retirement Contributions,5979
+912,458,Mortgage Interest,6851
+170,459,Investment Expenses,604
+541,460,Casualty and Theft Losses,4720
+954,461,Moving Expenses,2478
+904,462,Medical Expenses,2754
+929,463,Retirement Contributions,7061
+252,464,Mortgage Interest,7972
+698,465,Casualty and Theft Losses,132
+799,466,Mortgage Interest,618
+455,467,State Taxes Paid,5725
+893,468,Home Office,6644
+685,469,Moving Expenses,3939
+915,470,Educational Expenses,5292
+835,471,State Taxes Paid,5575
+736,472,Retirement Contributions,6539
+660,473,Business Expenses,8516
+989,474,Casualty and Theft Losses,203
+822,475,Childcare Expenses,7582
+551,476,Casualty and Theft Losses,4585
+728,477,Retirement Contributions,3346
+486,478,Moving Expenses,7359
+358,479,Investment Expenses,9553
+239,480,Childcare Expenses,7625
+371,481,Moving Expenses,5739
+188,482,Charitable Donations,1453
+477,483,State Taxes Paid,1228
+280,484,Medical Expenses,2744
+996,485,Moving Expenses,4234
+994,486,Casualty and Theft Losses,4098
+27,487,Other,6943
+613,488,State Taxes Paid,4629
+585,489,Mortgage Interest,109
+830,490,Medical Expenses,794
+363,491,Medical Expenses,9306
+545,492,Medical Expenses,2504
+274,493,Other,4991
+420,494,Mortgage Interest,9382
+345,495,Medical Expenses,634
+15,496,Medical Expenses,8474
+747,497,Retirement Contributions,4484
+802,498,Retirement Contributions,2117
+383,499,Childcare Expenses,9379
+327,500,Moving Expenses,3797
+770,501,Childcare Expenses,9191
+636,502,Investment Expenses,3639
+582,503,State Taxes Paid,3105
+445,504,Retirement Contributions,2736
+88,505,Charitable Donations,6429
+83,506,Retirement Contributions,232
+966,507,Childcare Expenses,5600
+451,508,Mortgage Interest,5354
+731,509,Business Expenses,7565
+965,510,Childcare Expenses,7891
+391,511,Mortgage Interest,9932
+211,512,State Taxes Paid,3127
+450,513,Investment Expenses,6476
+740,514,Moving Expenses,327
+232,515,Medical Expenses,1355
+768,516,Investment Expenses,5832
+835,517,Retirement Contributions,7138
+479,518,Business Expenses,7201
+644,519,Childcare Expenses,6854
+105,520,Childcare Expenses,1054
+745,521,Charitable Donations,6757
+419,522,Childcare Expenses,9179
+361,523,Casualty and Theft Losses,5562
+427,524,Mortgage Interest,2133
+174,525,Business Expenses,8088
+644,526,Mortgage Interest,4607
+352,527,Other,3935
+388,528,State Taxes Paid,5025
+871,529,Childcare Expenses,8888
+317,530,Medical Expenses,9291
+170,531,Childcare Expenses,5366
+568,532,Childcare Expenses,4707
+498,533,Educational Expenses,1594
+847,534,Other,7891
+29,535,Medical Expenses,8809
+153,536,Other,4832
+401,537,Childcare Expenses,5084
+234,538,Moving Expenses,2381
+818,539,Childcare Expenses,2824
+909,540,Childcare Expenses,2793
+804,541,Educational Expenses,4225
+481,542,Casualty and Theft Losses,5259
+607,543,Mortgage Interest,9851
+628,544,Local Taxes Paid,5576
+31,545,State Taxes Paid,3362
+516,546,Home Office,2517
+433,547,Medical Expenses,9334
+553,548,Home Office,974
+28,549,Investment Expenses,4695
+950,550,Moving Expenses,5083
+543,551,Medical Expenses,8447
+494,552,Other,8818
+888,553,Investment Expenses,629
+821,554,Retirement Contributions,4742
+944,555,Home Office,258
+231,556,Local Taxes Paid,6141
+505,557,Retirement Contributions,8522
+356,558,Investment Expenses,1291
+59,559,Educational Expenses,6527
+774,560,Other,9766
+705,561,Business Expenses,3476
+63,562,Home Office,668
+674,563,Business Expenses,9505
+30,564,Childcare Expenses,8983
+835,565,Business Expenses,4664
+188,566,Medical Expenses,2350
+380,567,Mortgage Interest,8081
+408,568,Mortgage Interest,1485
+45,569,Charitable Donations,9532
+140,570,Investment Expenses,4040
+284,571,Mortgage Interest,7901
+764,572,Home Office,3808
+930,573,Retirement Contributions,5491
+593,574,State Taxes Paid,4818
+832,575,Childcare Expenses,86
+872,576,Charitable Donations,7292
+900,577,Business Expenses,107
+826,578,Casualty and Theft Losses,43
+337,579,Retirement Contributions,770
+694,580,Educational Expenses,4802
+70,581,Investment Expenses,8548
+759,582,Home Office,8658
+353,583,Business Expenses,2007
+389,584,Moving Expenses,8631
+658,585,Medical Expenses,4829
+935,586,Home Office,54
+30,587,Mortgage Interest,3719
+185,588,Mortgage Interest,5138
+454,589,Childcare Expenses,2389
+380,590,State Taxes Paid,8868
+172,591,Mortgage Interest,3854
+504,592,Mortgage Interest,6065
+565,593,Medical Expenses,1514
+878,594,Home Office,3513
+658,595,Investment Expenses,6844
+25,596,Retirement Contributions,9699
+162,597,Mortgage Interest,2869
+750,598,Retirement Contributions,8291
+357,599,Moving Expenses,6588
+954,600,Retirement Contributions,3805
+726,601,Moving Expenses,1890
+899,602,Business Expenses,4609
+784,603,Charitable Donations,9237
+924,604,Mortgage Interest,1426
+982,605,Childcare Expenses,2479
+399,606,Other,2894
+252,607,Business Expenses,1410
+322,608,State Taxes Paid,6504
+807,609,Charitable Donations,8926
+103,610,Casualty and Theft Losses,1258
+549,611,Medical Expenses,4603
+266,612,Investment Expenses,166
+538,613,Mortgage Interest,7596
+670,614,Investment Expenses,7292
+274,615,Retirement Contributions,9225
+813,616,Childcare Expenses,2583
+470,617,Medical Expenses,1297
+294,618,Medical Expenses,390
+582,619,Local Taxes Paid,3570
+834,620,Business Expenses,6380
+359,621,Moving Expenses,3015
+727,622,Educational Expenses,5147
+789,623,Moving Expenses,1697
+293,624,Casualty and Theft Losses,1409
+227,625,Mortgage Interest,176
+657,626,Local Taxes Paid,6914
+84,627,Home Office,2152
+96,628,Business Expenses,3676
+2,629,State Taxes Paid,8916
+620,630,Childcare Expenses,5558
+152,631,Investment Expenses,741
+56,632,Charitable Donations,2351
+440,633,Retirement Contributions,5454
+516,634,Moving Expenses,6544
+150,635,Retirement Contributions,6164
+360,636,Medical Expenses,9515
+792,637,Educational Expenses,4964
+423,638,Moving Expenses,168
+380,639,Educational Expenses,7358
+651,640,Local Taxes Paid,5999
+910,641,Educational Expenses,5549
+737,642,Casualty and Theft Losses,5618
+431,643,Childcare Expenses,6535
+625,644,Home Office,5419
+574,645,Casualty and Theft Losses,6868
+937,646,Educational Expenses,9598
+266,647,Retirement Contributions,2449
+179,648,Retirement Contributions,7488
+453,649,Educational Expenses,2063
+958,650,Investment Expenses,104
+350,651,Medical Expenses,6488
+300,652,Childcare Expenses,8530
+414,653,Medical Expenses,9207
+156,654,State Taxes Paid,9127
+435,655,Casualty and Theft Losses,7355
+832,656,Home Office,1168
+266,657,Other,9194
+550,658,State Taxes Paid,8059
+147,659,Mortgage Interest,6046
+85,660,Business Expenses,2232
+581,661,Moving Expenses,9697
+892,662,Childcare Expenses,8041
+764,663,Mortgage Interest,38
+981,664,Local Taxes Paid,3858
+686,665,Casualty and Theft Losses,9563
+935,666,Investment Expenses,793
+794,667,Casualty and Theft Losses,6641
+11,668,State Taxes Paid,9774
+567,669,Medical Expenses,3449
+770,670,Local Taxes Paid,3954
+487,671,Home Office,5150
+975,672,Childcare Expenses,9999
+798,673,State Taxes Paid,6089
+733,674,Other,5450
+802,675,Educational Expenses,7939
+861,676,Casualty and Theft Losses,2706
+262,677,Educational Expenses,6887
+833,678,Childcare Expenses,8532
+442,679,Retirement Contributions,7608
+609,680,Local Taxes Paid,2484
+4,681,Casualty and Theft Losses,9484
+107,682,Local Taxes Paid,5132
+687,683,Retirement Contributions,5455
+314,684,State Taxes Paid,6764
+264,685,Business Expenses,5732
+722,686,Home Office,8019
+393,687,Educational Expenses,8576
+700,688,Charitable Donations,5662
+47,689,Educational Expenses,7732
+40,690,State Taxes Paid,8657
+376,691,Home Office,6290
+796,692,Retirement Contributions,4564
+95,693,Casualty and Theft Losses,3574
+593,694,Mortgage Interest,905
+462,695,Charitable Donations,6242
+626,696,Home Office,3473
+869,697,Medical Expenses,9343
+164,698,Business Expenses,5992
+414,699,Medical Expenses,324
+251,700,Medical Expenses,7861
+516,701,Casualty and Theft Losses,7419
+287,702,Retirement Contributions,3644
+932,703,Educational Expenses,6487
+374,704,Home Office,262
+639,705,Home Office,9022
+283,706,Investment Expenses,489
+335,707,Medical Expenses,9938
+82,708,Business Expenses,2795
+291,709,Business Expenses,2744
+334,710,Charitable Donations,633
+297,711,Casualty and Theft Losses,7939
+659,712,Charitable Donations,8897
+401,713,State Taxes Paid,6611
+743,714,Investment Expenses,2338
+891,715,Medical Expenses,7905
+167,716,Medical Expenses,4319
+171,717,Business Expenses,8354
+7,718,Charitable Donations,837
+288,719,Business Expenses,5811
+759,720,Moving Expenses,4655
+462,721,Medical Expenses,8980
+113,722,Other,4173
+587,723,State Taxes Paid,325
+676,724,State Taxes Paid,6860
+66,725,Charitable Donations,9134
+67,726,Charitable Donations,1151
+214,727,Local Taxes Paid,8495
+221,728,Local Taxes Paid,2220
+869,729,Educational Expenses,580
+594,730,Charitable Donations,6807
+863,731,Casualty and Theft Losses,7862
+329,732,Other,3142
+670,733,Educational Expenses,4391
+131,734,Charitable Donations,8383
+264,735,Childcare Expenses,7588
+248,736,Casualty and Theft Losses,536
+205,737,Medical Expenses,4621
+110,738,Childcare Expenses,9637
+376,739,Educational Expenses,2131
+14,740,Business Expenses,5215
+905,741,Childcare Expenses,5894
+640,742,Business Expenses,8281
+470,743,Local Taxes Paid,708
+578,744,Moving Expenses,4201
+627,745,Retirement Contributions,4938
+143,746,Moving Expenses,4998
+399,747,Local Taxes Paid,8534
+1,748,Business Expenses,8090
+538,749,Business Expenses,1003
+773,750,Investment Expenses,9244
+227,751,Retirement Contributions,4196
+48,752,Local Taxes Paid,4352
+706,753,Medical Expenses,115
+555,754,State Taxes Paid,6749
+823,755,Home Office,3436
+42,756,Educational Expenses,9957
+18,757,Other,1888
+382,758,Casualty and Theft Losses,6080
+622,759,Other,8339
+676,760,Other,3705
+192,761,Other,720
+197,762,Mortgage Interest,7631
+127,763,State Taxes Paid,7712
+639,764,Retirement Contributions,490
+137,765,Casualty and Theft Losses,3959
+219,766,Charitable Donations,914
+827,767,Moving Expenses,5014
+940,768,Childcare Expenses,8355
+323,769,Childcare Expenses,3748
+903,770,Other,3959
+164,771,Charitable Donations,9606
+856,772,Home Office,842
+282,773,Childcare Expenses,7103
+856,774,Charitable Donations,6851
+453,775,Other,8890
+730,776,Other,9002
+561,777,Mortgage Interest,6848
+700,778,Casualty and Theft Losses,3914
+607,779,Home Office,7365
+439,780,Home Office,9555
+418,781,Other,188
+440,782,Medical Expenses,4783
+720,783,Local Taxes Paid,8906
+255,784,Other,7558
+799,785,Childcare Expenses,7982
+868,786,State Taxes Paid,1115
+127,787,Childcare Expenses,3905
+911,788,State Taxes Paid,2141
+355,789,Other,8871
+24,790,Casualty and Theft Losses,166
+52,791,Childcare Expenses,3709
+557,792,Casualty and Theft Losses,8361
+951,793,Charitable Donations,3368
+878,794,Other,5089
+741,795,Educational Expenses,9544
+113,796,Local Taxes Paid,2518
+14,797,Moving Expenses,516
+75,798,Childcare Expenses,9781
+959,799,Business Expenses,4460
+313,800,Retirement Contributions,2572
+846,801,Educational Expenses,6156
+844,802,Mortgage Interest,5035
+445,803,Local Taxes Paid,200
+303,804,Retirement Contributions,8535
+968,805,Charitable Donations,2780
+507,806,Investment Expenses,9934
+330,807,Medical Expenses,6327
+411,808,Retirement Contributions,2325
+376,809,Moving Expenses,5794
+787,810,Charitable Donations,8122
+257,811,Casualty and Theft Losses,7809
+22,812,Childcare Expenses,5199
+651,813,Investment Expenses,3692
+191,814,Casualty and Theft Losses,9560
+127,815,Charitable Donations,4311
+683,816,State Taxes Paid,464
+83,817,Local Taxes Paid,8240
+500,818,Casualty and Theft Losses,6055
+308,819,Retirement Contributions,284
+566,820,Charitable Donations,7780
+597,821,Educational Expenses,236
+812,822,Home Office,2544
+84,823,Investment Expenses,5813
+739,824,Business Expenses,9133
+100,825,Charitable Donations,9769
+487,826,Educational Expenses,5923
+988,827,Moving Expenses,1493
+113,828,Educational Expenses,340
+836,829,Casualty and Theft Losses,9943
+840,830,Retirement Contributions,3276
+130,831,Educational Expenses,1930
+286,832,Educational Expenses,8505
+987,833,Home Office,6398
+105,834,State Taxes Paid,9613
+418,835,Local Taxes Paid,544
+781,836,Medical Expenses,7146
+602,837,Casualty and Theft Losses,1767
+107,838,Childcare Expenses,7805
+320,839,Investment Expenses,9518
+894,840,Charitable Donations,7599
+698,841,State Taxes Paid,4284
+141,842,Moving Expenses,1404
+174,843,Business Expenses,8214
+597,844,Casualty and Theft Losses,2193
+704,845,State Taxes Paid,7619
+17,846,Business Expenses,551
+63,847,Medical Expenses,7904
+119,848,Investment Expenses,1563
+556,849,Home Office,2879
+500,850,Business Expenses,5279
+932,851,Business Expenses,5866
+564,852,Childcare Expenses,5237
+879,853,Charitable Donations,943
+722,854,Childcare Expenses,2846
+405,855,Medical Expenses,8111
+619,856,Casualty and Theft Losses,6053
+614,857,State Taxes Paid,1023
+944,858,Medical Expenses,6756
+865,859,Childcare Expenses,106
+243,860,Investment Expenses,3254
+864,861,Retirement Contributions,6617
+29,862,Childcare Expenses,361
+141,863,Educational Expenses,7517
+314,864,Moving Expenses,7936
+94,865,State Taxes Paid,5077
+291,866,Childcare Expenses,5347
+149,867,Mortgage Interest,5858
+939,868,Business Expenses,3774
+957,869,Moving Expenses,9674
+765,870,Investment Expenses,5851
+732,871,Home Office,5564
+767,872,Charitable Donations,2047
+474,873,Retirement Contributions,6595
+977,874,Home Office,1095
+372,875,Medical Expenses,8121
+143,876,Educational Expenses,9619
+831,877,Charitable Donations,8075
+233,878,Other,9525
+651,879,Home Office,145
+241,880,Childcare Expenses,8597
+311,881,Childcare Expenses,7122
+690,882,Home Office,5686
+680,883,Local Taxes Paid,8751
+283,884,Medical Expenses,6305
+526,885,Mortgage Interest,7383
+189,886,Educational Expenses,7515
+163,887,Other,429
+44,888,Home Office,5195
+640,889,Investment Expenses,3848
+842,890,Retirement Contributions,2836
+67,891,Educational Expenses,6108
+937,892,Moving Expenses,8968
+789,893,State Taxes Paid,4014
+274,894,Medical Expenses,7608
+575,895,Retirement Contributions,389
+460,896,Local Taxes Paid,8096
+158,897,Retirement Contributions,1060
+507,898,Local Taxes Paid,4189
+290,899,Retirement Contributions,9387
+773,900,Moving Expenses,6531
+806,901,Charitable Donations,4202
+480,902,Business Expenses,4140
+730,903,Business Expenses,8727
+636,904,State Taxes Paid,3310
+300,905,Charitable Donations,9168
+131,906,Other,281
+36,907,Local Taxes Paid,3507
+495,908,Local Taxes Paid,4056
+511,909,Retirement Contributions,8574
+51,910,Educational Expenses,7421
+595,911,Childcare Expenses,3269
+370,912,Local Taxes Paid,1876
+506,913,Medical Expenses,5960
+420,914,Investment Expenses,3430
+784,915,State Taxes Paid,7511
+494,916,Investment Expenses,4691
+988,917,Charitable Donations,4100
+824,918,Mortgage Interest,3961
+842,919,Childcare Expenses,4760
+449,920,Business Expenses,6765
+350,921,Home Office,1094
+646,922,Investment Expenses,7793
+542,923,Local Taxes Paid,6095
+752,924,Educational Expenses,815
+417,925,Mortgage Interest,972
+582,926,Business Expenses,9845
+481,927,Medical Expenses,1298
+612,928,Other,7674
+608,929,Charitable Donations,4454
+526,930,Retirement Contributions,2614
+919,931,Retirement Contributions,8216
+880,932,Medical Expenses,8060
+2,933,Business Expenses,7784
+960,934,Investment Expenses,6987
+800,935,Investment Expenses,4474
+436,936,Home Office,6425
+250,937,Charitable Donations,5842
+844,938,Other,4156
+407,939,Business Expenses,7235
+238,940,Medical Expenses,1281
+161,941,Casualty and Theft Losses,4526
+939,942,Charitable Donations,7192
+761,943,Investment Expenses,4846
+885,944,Mortgage Interest,1484
+369,945,Investment Expenses,7271
+772,946,Educational Expenses,7437
+499,947,Home Office,8761
+747,948,State Taxes Paid,103
+979,949,Home Office,5450
+964,950,Home Office,6810
+87,951,Childcare Expenses,6838
+679,952,Mortgage Interest,5149
+905,953,Local Taxes Paid,1445
+531,954,Mortgage Interest,9460
+457,955,Charitable Donations,9466
+499,956,Mortgage Interest,181
+380,957,Other,9214
+639,958,Investment Expenses,561
+791,959,Business Expenses,2643
+643,960,Retirement Contributions,7931
+147,961,Moving Expenses,2121
+873,962,Educational Expenses,5766
+393,963,Home Office,7192
+110,964,Investment Expenses,8639
+13,965,Casualty and Theft Losses,6905
+55,966,Medical Expenses,2336
+86,967,Local Taxes Paid,9508
+306,968,Mortgage Interest,9618
+829,969,Investment Expenses,3335
+224,970,Local Taxes Paid,7427
+533,971,Investment Expenses,7189
+805,972,Childcare Expenses,8277
+560,973,Childcare Expenses,7005
+130,974,Home Office,8667
+246,975,Childcare Expenses,9409
+949,976,Home Office,9181
+728,977,Home Office,9317
+903,978,Medical Expenses,8870
+87,979,Moving Expenses,1910
+685,980,Medical Expenses,3897
+380,981,Medical Expenses,5904
+50,982,Home Office,8107
+341,983,Medical Expenses,2058
+344,984,Investment Expenses,4513
+739,985,Educational Expenses,2995
+996,986,Mortgage Interest,476
+236,987,Home Office,1508
+775,988,Charitable Donations,7670
+635,989,Mortgage Interest,1826
+300,990,Mortgage Interest,273
+373,991,Charitable Donations,2850
+36,992,Moving Expenses,7267
+29,993,Educational Expenses,1776
+527,994,Other,3337
+335,995,State Taxes Paid,8364
+981,996,Medical Expenses,4138
+389,997,Investment Expenses,2646
+911,998,Childcare Expenses,652
+778,999,Home Office,1920
+657,1000,Local Taxes Paid,7869

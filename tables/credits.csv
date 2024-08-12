@@ -1,0 +1,1001 @@
+credit_id,taxpayer_id,credit_type,amount
+1,427,Electric Vehicle Credit,7975
+2,13,American Opportunity Credit,6705
+3,306,Adoption Credit,4851
+4,900,American Opportunity Credit,1844
+5,464,Education Credit,1563
+6,680,Saver's Credit,2034
+7,813,American Opportunity Credit,7871
+8,289,Residential Energy Efficient Property Credit,5727
+9,628,American Opportunity Credit,7011
+10,416,Adoption Credit,4925
+11,75,Lifetime Learning Credit,4886
+12,458,Lifetime Learning Credit,4727
+13,76,Credit for the Elderly or Disabled,4108
+14,588,Electric Vehicle Credit,8744
+15,939,Saver's Credit,736
+16,981,Residential Energy Efficient Property Credit,3836
+17,261,Disabled Access Credit,5653
+18,224,Electric Vehicle Credit,8797
+19,733,Credit for the Elderly or Disabled,2563
+20,798,Child and Dependent Care Credit,1239
+21,635,Child Tax Credit,1494
+22,552,Education Credit,5395
+23,10,Premium Tax Credit,8606
+24,927,Retirement Savings Contribution Credit,9627
+25,440,Retirement Savings Contribution Credit,113
+26,48,Adoption Credit,3683
+27,548,Retirement Savings Contribution Credit,8836
+28,935,Child and Dependent Care Credit,5386
+29,195,Residential Energy Efficient Property Credit,8153
+30,481,Lifetime Learning Credit,4851
+31,237,Lifetime Learning Credit,3843
+32,655,Saver's Credit,5765
+33,645,Earned Income Credit,9540
+34,54,Premium Tax Credit,5007
+35,997,Adoption Credit,6930
+36,540,American Opportunity Credit,749
+37,605,Education Credit,1444
+38,173,Saver's Credit,6719
+39,240,Education Credit,6711
+40,680,Child and Dependent Care Credit,4272
+41,35,Child and Dependent Care Credit,3402
+42,788,Residential Energy Efficient Property Credit,8083
+43,371,Disabled Access Credit,9680
+44,501,Lifetime Learning Credit,436
+45,886,Lifetime Learning Credit,3866
+46,146,Home Office Deduction Credit,7178
+47,739,Residential Energy Efficient Property Credit,7117
+48,993,Adoption Credit,6298
+49,521,Home Office Deduction Credit,4776
+50,594,Lifetime Learning Credit,1682
+51,454,Credit for the Elderly or Disabled,7995
+52,443,Education Credit,634
+53,306,Retirement Savings Contribution Credit,5004
+54,565,Earned Income Credit,8436
+55,909,American Opportunity Credit,8519
+56,873,Child and Dependent Care Credit,9348
+57,510,Child Tax Credit,1505
+58,886,Education Credit,8431
+59,72,Electric Vehicle Credit,992
+60,46,Electric Vehicle Credit,7800
+61,672,Child and Dependent Care Credit,8789
+62,96,Credit for the Elderly or Disabled,2570
+63,743,Electric Vehicle Credit,3683
+64,367,Earned Income Credit,1571
+65,667,Energy Credit,5122
+66,903,Retirement Savings Contribution Credit,365
+67,887,Child Tax Credit,6942
+68,789,Child Tax Credit,3715
+69,424,Residential Energy Efficient Property Credit,4973
+70,625,Lifetime Learning Credit,2603
+71,49,Education Credit,5541
+72,795,Child Tax Credit,8139
+73,37,Lifetime Learning Credit,3786
+74,710,Saver's Credit,1365
+75,342,Premium Tax Credit,7712
+76,745,Child and Dependent Care Credit,4481
+77,351,Home Office Deduction Credit,5779
+78,249,Energy Credit,5366
+79,811,Adoption Credit,9722
+80,339,Credit for the Elderly or Disabled,3570
+81,812,American Opportunity Credit,2984
+82,804,American Opportunity Credit,6832
+83,357,American Opportunity Credit,6188
+84,832,Lifetime Learning Credit,4523
+85,3,Disabled Access Credit,7361
+86,385,Child Tax Credit,4347
+87,457,Disabled Access Credit,3170
+88,505,Education Credit,2426
+89,245,Child Tax Credit,942
+90,254,Adoption Credit,9545
+91,97,Saver's Credit,5285
+92,743,Disabled Access Credit,8644
+93,345,Child and Dependent Care Credit,9022
+94,416,Earned Income Credit,5896
+95,859,Saver's Credit,5627
+96,375,Home Office Deduction Credit,3792
+97,824,Child and Dependent Care Credit,6342
+98,851,Adoption Credit,3767
+99,748,Energy Credit,889
+100,691,Child and Dependent Care Credit,9734
+101,208,Energy Credit,5969
+102,693,Adoption Credit,4536
+103,788,Retirement Savings Contribution Credit,7893
+104,851,Energy Credit,3495
+105,628,American Opportunity Credit,1598
+106,516,American Opportunity Credit,1327
+107,532,Earned Income Credit,6063
+108,203,Saver's Credit,3549
+109,918,Child and Dependent Care Credit,8888
+110,295,Disabled Access Credit,4603
+111,585,Education Credit,5817
+112,983,Home Office Deduction Credit,147
+113,956,Saver's Credit,3439
+114,955,American Opportunity Credit,5012
+115,568,Retirement Savings Contribution Credit,3932
+116,196,Education Credit,9571
+117,709,Earned Income Credit,8456
+118,601,American Opportunity Credit,9011
+119,457,Disabled Access Credit,9552
+120,119,Disabled Access Credit,7649
+121,934,Home Office Deduction Credit,2240
+122,667,Adoption Credit,2197
+123,268,Disabled Access Credit,2684
+124,492,Electric Vehicle Credit,6013
+125,776,Disabled Access Credit,2430
+126,298,Saver's Credit,4273
+127,107,Saver's Credit,1001
+128,415,Saver's Credit,9444
+129,684,Saver's Credit,7615
+130,120,Disabled Access Credit,7013
+131,671,Earned Income Credit,381
+132,578,Credit for the Elderly or Disabled,5757
+133,16,Lifetime Learning Credit,3445
+134,520,Disabled Access Credit,3526
+135,53,Residential Energy Efficient Property Credit,2131
+136,811,Home Office Deduction Credit,4944
+137,915,Saver's Credit,3276
+138,947,Residential Energy Efficient Property Credit,4293
+139,754,Residential Energy Efficient Property Credit,5085
+140,386,Energy Credit,371
+141,73,Disabled Access Credit,6732
+142,113,Lifetime Learning Credit,539
+143,850,Earned Income Credit,3162
+144,732,Child and Dependent Care Credit,6410
+145,227,Residential Energy Efficient Property Credit,5709
+146,236,American Opportunity Credit,7314
+147,258,Adoption Credit,8186
+148,72,American Opportunity Credit,8556
+149,164,Education Credit,6926
+150,634,American Opportunity Credit,3673
+151,100,Adoption Credit,2898
+152,669,Earned Income Credit,3130
+153,930,Residential Energy Efficient Property Credit,7286
+154,621,Child Tax Credit,9236
+155,354,Earned Income Credit,2311
+156,575,Disabled Access Credit,7270
+157,915,Credit for the Elderly or Disabled,7303
+158,444,Child Tax Credit,716
+159,359,Child Tax Credit,9558
+160,448,Residential Energy Efficient Property Credit,5937
+161,428,Earned Income Credit,1544
+162,96,Adoption Credit,9315
+163,981,Saver's Credit,5610
+164,410,Lifetime Learning Credit,4021
+165,659,Education Credit,5604
+166,480,Premium Tax Credit,5559
+167,479,Premium Tax Credit,9510
+168,743,Residential Energy Efficient Property Credit,2938
+169,861,Child Tax Credit,4111
+170,76,Disabled Access Credit,1833
+171,435,Child Tax Credit,1545
+172,313,Child and Dependent Care Credit,4022
+173,105,Education Credit,2235
+174,369,Home Office Deduction Credit,2071
+175,753,Disabled Access Credit,5402
+176,92,Credit for the Elderly or Disabled,6174
+177,697,Adoption Credit,9984
+178,181,Earned Income Credit,1423
+179,501,Adoption Credit,1977
+180,345,Education Credit,6460
+181,435,Home Office Deduction Credit,9075
+182,766,Child and Dependent Care Credit,4631
+183,959,Saver's Credit,9767
+184,434,Premium Tax Credit,7538
+185,737,Child and Dependent Care Credit,2023
+186,995,Lifetime Learning Credit,4777
+187,787,Adoption Credit,7047
+188,161,Electric Vehicle Credit,7936
+189,827,Adoption Credit,724
+190,808,Energy Credit,4583
+191,713,Electric Vehicle Credit,4425
+192,406,Energy Credit,1884
+193,272,Disabled Access Credit,6101
+194,234,Residential Energy Efficient Property Credit,5656
+195,776,Home Office Deduction Credit,782
+196,191,Saver's Credit,9886
+197,319,Child Tax Credit,4879
+198,924,Home Office Deduction Credit,6131
+199,794,Credit for the Elderly or Disabled,2964
+200,209,Lifetime Learning Credit,3649
+201,538,Electric Vehicle Credit,9888
+202,266,Disabled Access Credit,4353
+203,547,Premium Tax Credit,8910
+204,878,Education Credit,1850
+205,741,Lifetime Learning Credit,9353
+206,293,Home Office Deduction Credit,8393
+207,301,Education Credit,2081
+208,543,Child Tax Credit,6384
+209,384,Earned Income Credit,3368
+210,999,Earned Income Credit,1854
+211,845,Home Office Deduction Credit,341
+212,93,Premium Tax Credit,8614
+213,993,Disabled Access Credit,5219
+214,359,Education Credit,9474
+215,996,Earned Income Credit,4541
+216,29,Energy Credit,6093
+217,657,Energy Credit,7120
+218,946,Credit for the Elderly or Disabled,3710
+219,424,Education Credit,4179
+220,902,American Opportunity Credit,4528
+221,282,Energy Credit,2510
+222,31,Child Tax Credit,3489
+223,369,Premium Tax Credit,7298
+224,793,Lifetime Learning Credit,4520
+225,807,Disabled Access Credit,132
+226,799,Retirement Savings Contribution Credit,7059
+227,753,American Opportunity Credit,8427
+228,680,Home Office Deduction Credit,7361
+229,54,American Opportunity Credit,5811
+230,147,Child Tax Credit,4905
+231,860,Energy Credit,519
+232,79,Disabled Access Credit,4320
+233,214,Credit for the Elderly or Disabled,4814
+234,556,Disabled Access Credit,7805
+235,875,Child and Dependent Care Credit,743
+236,279,Residential Energy Efficient Property Credit,3088
+237,865,Adoption Credit,4587
+238,760,Retirement Savings Contribution Credit,9337
+239,119,Disabled Access Credit,278
+240,825,Premium Tax Credit,6032
+241,377,Home Office Deduction Credit,5979
+242,225,Premium Tax Credit,2005
+243,91,Adoption Credit,8293
+244,94,Education Credit,5326
+245,808,Disabled Access Credit,9232
+246,140,Residential Energy Efficient Property Credit,7334
+247,185,Home Office Deduction Credit,5920
+248,948,Credit for the Elderly or Disabled,7482
+249,403,Home Office Deduction Credit,5621
+250,768,Child Tax Credit,360
+251,847,Credit for the Elderly or Disabled,6206
+252,17,Saver's Credit,9787
+253,206,Earned Income Credit,9633
+254,154,Retirement Savings Contribution Credit,1844
+255,123,Premium Tax Credit,981
+256,136,Disabled Access Credit,6027
+257,952,Residential Energy Efficient Property Credit,9035
+258,505,Electric Vehicle Credit,8066
+259,433,Residential Energy Efficient Property Credit,5811
+260,412,Electric Vehicle Credit,9766
+261,650,Residential Energy Efficient Property Credit,1292
+262,523,Child Tax Credit,3996
+263,101,Education Credit,846
+264,888,Disabled Access Credit,4741
+265,139,Credit for the Elderly or Disabled,2987
+266,410,Education Credit,2930
+267,423,Residential Energy Efficient Property Credit,871
+268,465,Disabled Access Credit,6845
+269,530,Saver's Credit,2858
+270,50,Credit for the Elderly or Disabled,6387
+271,211,Residential Energy Efficient Property Credit,1472
+272,696,Education Credit,3918
+273,4,Home Office Deduction Credit,7511
+274,945,American Opportunity Credit,6612
+275,502,Disabled Access Credit,8860
+276,534,Child Tax Credit,6037
+277,374,Electric Vehicle Credit,3601
+278,566,Earned Income Credit,2569
+279,519,Child Tax Credit,5421
+280,671,Child Tax Credit,1666
+281,95,Disabled Access Credit,5379
+282,646,American Opportunity Credit,9650
+283,53,Retirement Savings Contribution Credit,2566
+284,414,Earned Income Credit,7687
+285,127,Disabled Access Credit,6315
+286,108,Adoption Credit,6021
+287,732,Premium Tax Credit,5510
+288,193,Credit for the Elderly or Disabled,1508
+289,468,Adoption Credit,9464
+290,726,Earned Income Credit,3190
+291,161,Retirement Savings Contribution Credit,1230
+292,144,Retirement Savings Contribution Credit,2712
+293,745,Child Tax Credit,1398
+294,490,Retirement Savings Contribution Credit,5845
+295,398,Education Credit,5555
+296,85,Disabled Access Credit,8740
+297,65,Credit for the Elderly or Disabled,6611
+298,730,Saver's Credit,1111
+299,497,Child and Dependent Care Credit,5556
+300,281,Credit for the Elderly or Disabled,5748
+301,641,Retirement Savings Contribution Credit,6717
+302,304,Saver's Credit,1654
+303,355,Child and Dependent Care Credit,8479
+304,131,Child and Dependent Care Credit,3449
+305,217,Credit for the Elderly or Disabled,6134
+306,653,Child Tax Credit,7513
+307,258,Energy Credit,5313
+308,678,Residential Energy Efficient Property Credit,8957
+309,471,Home Office Deduction Credit,693
+310,689,Lifetime Learning Credit,7269
+311,414,Premium Tax Credit,7117
+312,589,American Opportunity Credit,6890
+313,514,Energy Credit,2781
+314,991,American Opportunity Credit,109
+315,487,Disabled Access Credit,7224
+316,325,Child Tax Credit,7799
+317,785,Child and Dependent Care Credit,1967
+318,777,Saver's Credit,1701
+319,219,Adoption Credit,9775
+320,707,American Opportunity Credit,7151
+321,509,Child and Dependent Care Credit,1413
+322,713,Home Office Deduction Credit,9935
+323,926,American Opportunity Credit,4240
+324,842,Retirement Savings Contribution Credit,6928
+325,67,Child and Dependent Care Credit,4960
+326,467,Retirement Savings Contribution Credit,9743
+327,395,Child Tax Credit,6946
+328,277,Adoption Credit,8138
+329,234,Child and Dependent Care Credit,327
+330,745,Earned Income Credit,8927
+331,238,Electric Vehicle Credit,1851
+332,779,Earned Income Credit,8550
+333,697,Retirement Savings Contribution Credit,2696
+334,666,Child and Dependent Care Credit,9838
+335,781,American Opportunity Credit,8327
+336,749,American Opportunity Credit,8892
+337,496,Retirement Savings Contribution Credit,6911
+338,259,Credit for the Elderly or Disabled,8143
+339,536,Energy Credit,955
+340,232,Disabled Access Credit,9062
+341,460,Child Tax Credit,5638
+342,766,Adoption Credit,5654
+343,826,Child Tax Credit,6684
+344,22,Energy Credit,4929
+345,910,Saver's Credit,9199
+346,28,Child Tax Credit,580
+347,677,American Opportunity Credit,9376
+348,676,Earned Income Credit,6690
+349,493,Earned Income Credit,9912
+350,97,American Opportunity Credit,4077
+351,618,Credit for the Elderly or Disabled,738
+352,37,Retirement Savings Contribution Credit,8704
+353,469,Credit for the Elderly or Disabled,7796
+354,777,Saver's Credit,8407
+355,270,Disabled Access Credit,2984
+356,280,Education Credit,4061
+357,191,American Opportunity Credit,5335
+358,683,Residential Energy Efficient Property Credit,2140
+359,249,Child and Dependent Care Credit,6937
+360,549,Credit for the Elderly or Disabled,5527
+361,883,Retirement Savings Contribution Credit,7288
+362,939,Disabled Access Credit,5810
+363,960,Earned Income Credit,4369
+364,327,Lifetime Learning Credit,5442
+365,770,Child and Dependent Care Credit,7411
+366,430,Retirement Savings Contribution Credit,7140
+367,173,Credit for the Elderly or Disabled,2064
+368,283,Earned Income Credit,5073
+369,167,Credit for the Elderly or Disabled,4913
+370,439,American Opportunity Credit,1600
+371,737,Saver's Credit,1000
+372,477,Credit for the Elderly or Disabled,9725
+373,975,Disabled Access Credit,4725
+374,24,Lifetime Learning Credit,5144
+375,491,Disabled Access Credit,3787
+376,655,Credit for the Elderly or Disabled,9782
+377,261,Energy Credit,9867
+378,906,Credit for the Elderly or Disabled,3099
+379,550,Saver's Credit,5658
+380,254,Credit for the Elderly or Disabled,8935
+381,110,Lifetime Learning Credit,8385
+382,742,Child and Dependent Care Credit,256
+383,114,Residential Energy Efficient Property Credit,3856
+384,189,Home Office Deduction Credit,3476
+385,842,Energy Credit,2121
+386,239,Residential Energy Efficient Property Credit,6009
+387,93,Saver's Credit,7113
+388,972,Home Office Deduction Credit,7357
+389,985,Credit for the Elderly or Disabled,2274
+390,261,Saver's Credit,7291
+391,896,Earned Income Credit,2114
+392,307,Earned Income Credit,422
+393,291,Retirement Savings Contribution Credit,6833
+394,41,Energy Credit,1462
+395,479,Residential Energy Efficient Property Credit,6464
+396,591,Retirement Savings Contribution Credit,8313
+397,978,Child Tax Credit,8461
+398,648,Earned Income Credit,2701
+399,807,Earned Income Credit,4648
+400,984,Disabled Access Credit,7842
+401,606,Saver's Credit,6758
+402,969,Residential Energy Efficient Property Credit,8687
+403,296,Earned Income Credit,2823
+404,921,Home Office Deduction Credit,6905
+405,442,Earned Income Credit,1841
+406,736,Retirement Savings Contribution Credit,7573
+407,430,Electric Vehicle Credit,9068
+408,876,Premium Tax Credit,5142
+409,516,Retirement Savings Contribution Credit,6720
+410,108,Premium Tax Credit,8351
+411,139,Credit for the Elderly or Disabled,8553
+412,360,Residential Energy Efficient Property Credit,6470
+413,348,Retirement Savings Contribution Credit,6758
+414,635,Lifetime Learning Credit,7652
+415,733,Lifetime Learning Credit,8649
+416,112,Saver's Credit,3833
+417,999,Adoption Credit,6271
+418,768,Credit for the Elderly or Disabled,7598
+419,574,Energy Credit,4685
+420,555,Lifetime Learning Credit,5460
+421,578,Electric Vehicle Credit,8348
+422,897,Adoption Credit,6491
+423,759,Child and Dependent Care Credit,9707
+424,670,Earned Income Credit,5827
+425,435,Lifetime Learning Credit,476
+426,766,Credit for the Elderly or Disabled,2381
+427,193,Disabled Access Credit,1787
+428,423,Home Office Deduction Credit,6718
+429,859,Child and Dependent Care Credit,3366
+430,820,Electric Vehicle Credit,6821
+431,767,Home Office Deduction Credit,1254
+432,251,Saver's Credit,9693
+433,972,Residential Energy Efficient Property Credit,2869
+434,79,Earned Income Credit,1285
+435,776,Lifetime Learning Credit,7338
+436,978,Lifetime Learning Credit,6750
+437,629,Earned Income Credit,3715
+438,347,American Opportunity Credit,3523
+439,498,Child and Dependent Care Credit,6352
+440,823,American Opportunity Credit,5191
+441,94,Retirement Savings Contribution Credit,553
+442,176,Earned Income Credit,5114
+443,488,Lifetime Learning Credit,9829
+444,351,Child Tax Credit,186
+445,541,Disabled Access Credit,3727
+446,967,Credit for the Elderly or Disabled,6192
+447,424,Electric Vehicle Credit,4089
+448,372,Disabled Access Credit,2960
+449,366,Electric Vehicle Credit,695
+450,418,Premium Tax Credit,3527
+451,227,Earned Income Credit,7177
+452,116,Child and Dependent Care Credit,9717
+453,234,Premium Tax Credit,5696
+454,13,Residential Energy Efficient Property Credit,5491
+455,558,Credit for the Elderly or Disabled,8228
+456,238,Energy Credit,9959
+457,398,Education Credit,2800
+458,972,Child Tax Credit,6809
+459,312,Disabled Access Credit,6136
+460,74,Energy Credit,6210
+461,632,Saver's Credit,9086
+462,707,Credit for the Elderly or Disabled,4645
+463,773,Energy Credit,1619
+464,702,Energy Credit,1070
+465,101,Adoption Credit,2313
+466,716,Child Tax Credit,7819
+467,488,Earned Income Credit,6911
+468,36,Saver's Credit,6803
+469,972,Saver's Credit,250
+470,857,American Opportunity Credit,5977
+471,341,Premium Tax Credit,1636
+472,119,Child and Dependent Care Credit,2781
+473,703,Premium Tax Credit,3409
+474,201,Adoption Credit,7051
+475,599,Adoption Credit,3221
+476,46,Residential Energy Efficient Property Credit,5775
+477,214,Retirement Savings Contribution Credit,3436
+478,786,Disabled Access Credit,9902
+479,533,Residential Energy Efficient Property Credit,4202
+480,492,Residential Energy Efficient Property Credit,3925
+481,265,Education Credit,3029
+482,987,Credit for the Elderly or Disabled,6835
+483,326,Retirement Savings Contribution Credit,4572
+484,403,Child and Dependent Care Credit,3082
+485,594,Premium Tax Credit,6697
+486,918,Home Office Deduction Credit,6898
+487,967,Earned Income Credit,1257
+488,506,Education Credit,480
+489,825,Home Office Deduction Credit,4819
+490,414,Education Credit,7056
+491,897,Retirement Savings Contribution Credit,6304
+492,359,Lifetime Learning Credit,8275
+493,332,Credit for the Elderly or Disabled,5795
+494,605,Child Tax Credit,7505
+495,762,Education Credit,5341
+496,962,Retirement Savings Contribution Credit,7419
+497,787,Lifetime Learning Credit,206
+498,960,Residential Energy Efficient Property Credit,6708
+499,230,Home Office Deduction Credit,4760
+500,574,Saver's Credit,7747
+501,989,Saver's Credit,8412
+502,496,Retirement Savings Contribution Credit,546
+503,58,Premium Tax Credit,2344
+504,940,Earned Income Credit,914
+505,320,Education Credit,8524
+506,788,American Opportunity Credit,5604
+507,876,American Opportunity Credit,7437
+508,622,Credit for the Elderly or Disabled,7446
+509,845,American Opportunity Credit,6976
+510,134,Home Office Deduction Credit,9529
+511,5,Home Office Deduction Credit,3439
+512,433,American Opportunity Credit,6977
+513,724,Education Credit,39
+514,222,Energy Credit,1035
+515,119,Credit for the Elderly or Disabled,4139
+516,127,Child and Dependent Care Credit,570
+517,174,Home Office Deduction Credit,5787
+518,366,Child Tax Credit,9193
+519,739,Electric Vehicle Credit,5535
+520,738,Home Office Deduction Credit,9988
+521,430,Saver's Credit,8611
+522,366,Credit for the Elderly or Disabled,2973
+523,897,Child Tax Credit,4153
+524,986,Retirement Savings Contribution Credit,5883
+525,326,Retirement Savings Contribution Credit,8272
+526,188,Saver's Credit,7139
+527,462,Residential Energy Efficient Property Credit,1504
+528,66,American Opportunity Credit,6322
+529,244,Credit for the Elderly or Disabled,1826
+530,49,Energy Credit,3762
+531,377,Child and Dependent Care Credit,2919
+532,756,Credit for the Elderly or Disabled,5922
+533,560,Electric Vehicle Credit,2833
+534,467,Education Credit,2107
+535,807,Disabled Access Credit,4132
+536,933,Lifetime Learning Credit,432
+537,483,Education Credit,7038
+538,868,Disabled Access Credit,2210
+539,190,Premium Tax Credit,8824
+540,418,Home Office Deduction Credit,5439
+541,940,Lifetime Learning Credit,4390
+542,346,Child and Dependent Care Credit,2677
+543,354,Child and Dependent Care Credit,5345
+544,95,Education Credit,6269
+545,502,Saver's Credit,4896
+546,642,Electric Vehicle Credit,5342
+547,990,Earned Income Credit,5544
+548,806,Retirement Savings Contribution Credit,1902
+549,603,Residential Energy Efficient Property Credit,8643
+550,246,Premium Tax Credit,5897
+551,189,American Opportunity Credit,6408
+552,597,Disabled Access Credit,6027
+553,314,Energy Credit,2066
+554,816,Saver's Credit,3249
+555,396,Energy Credit,4133
+556,333,Premium Tax Credit,5552
+557,896,American Opportunity Credit,65
+558,433,Retirement Savings Contribution Credit,3823
+559,701,Electric Vehicle Credit,6094
+560,776,Child Tax Credit,6167
+561,3,Disabled Access Credit,4
+562,784,Disabled Access Credit,8747
+563,883,Energy Credit,4205
+564,997,Residential Energy Efficient Property Credit,2710
+565,660,Lifetime Learning Credit,8952
+566,523,Home Office Deduction Credit,2588
+567,759,Child Tax Credit,2966
+568,593,Adoption Credit,7385
+569,923,Saver's Credit,342
+570,944,American Opportunity Credit,1451
+571,230,Residential Energy Efficient Property Credit,354
+572,200,Electric Vehicle Credit,8795
+573,350,American Opportunity Credit,5179
+574,63,Home Office Deduction Credit,8074
+575,226,Retirement Savings Contribution Credit,685
+576,781,Earned Income Credit,6893
+577,972,Energy Credit,7696
+578,973,Home Office Deduction Credit,9114
+579,154,Retirement Savings Contribution Credit,4037
+580,623,Child and Dependent Care Credit,8877
+581,349,Energy Credit,9050
+582,492,Credit for the Elderly or Disabled,4960
+583,466,Credit for the Elderly or Disabled,100
+584,8,Residential Energy Efficient Property Credit,4175
+585,138,Credit for the Elderly or Disabled,6551
+586,412,Retirement Savings Contribution Credit,1042
+587,804,Energy Credit,7476
+588,389,Child Tax Credit,8282
+589,128,Residential Energy Efficient Property Credit,3215
+590,414,American Opportunity Credit,6453
+591,251,American Opportunity Credit,6836
+592,681,American Opportunity Credit,6339
+593,23,Saver's Credit,9544
+594,972,Education Credit,1569
+595,616,Electric Vehicle Credit,5181
+596,35,Residential Energy Efficient Property Credit,162
+597,755,Electric Vehicle Credit,4224
+598,621,Earned Income Credit,5948
+599,659,Residential Energy Efficient Property Credit,1355
+600,226,Adoption Credit,9327
+601,74,Child and Dependent Care Credit,5245
+602,76,Saver's Credit,259
+603,380,Electric Vehicle Credit,1434
+604,101,Adoption Credit,5791
+605,716,Education Credit,1119
+606,83,Residential Energy Efficient Property Credit,3349
+607,381,Credit for the Elderly or Disabled,9294
+608,574,Disabled Access Credit,83
+609,209,Energy Credit,3194
+610,273,Lifetime Learning Credit,4642
+611,383,Child and Dependent Care Credit,8324
+612,909,Lifetime Learning Credit,9691
+613,176,Adoption Credit,5698
+614,575,Adoption Credit,7153
+615,410,Child Tax Credit,2977
+616,609,Education Credit,3342
+617,913,Home Office Deduction Credit,1019
+618,810,Premium Tax Credit,5316
+619,716,Credit for the Elderly or Disabled,7706
+620,535,Earned Income Credit,8216
+621,376,Residential Energy Efficient Property Credit,4468
+622,232,Earned Income Credit,3949
+623,164,Lifetime Learning Credit,135
+624,48,Retirement Savings Contribution Credit,5348
+625,578,Child and Dependent Care Credit,252
+626,582,Education Credit,192
+627,280,Energy Credit,8256
+628,647,Saver's Credit,1368
+629,870,Child Tax Credit,1628
+630,32,Earned Income Credit,3662
+631,668,American Opportunity Credit,393
+632,45,Adoption Credit,8744
+633,483,Education Credit,3219
+634,536,Credit for the Elderly or Disabled,3180
+635,459,Electric Vehicle Credit,2001
+636,733,Child and Dependent Care Credit,8416
+637,556,Child and Dependent Care Credit,242
+638,301,Credit for the Elderly or Disabled,1855
+639,858,Home Office Deduction Credit,3973
+640,933,Earned Income Credit,973
+641,332,Saver's Credit,7211
+642,971,Child Tax Credit,3981
+643,36,Lifetime Learning Credit,6831
+644,695,Education Credit,9392
+645,670,Electric Vehicle Credit,6361
+646,201,Earned Income Credit,4731
+647,507,Saver's Credit,3159
+648,713,Lifetime Learning Credit,5502
+649,252,Residential Energy Efficient Property Credit,9708
+650,890,Education Credit,7702
+651,633,Disabled Access Credit,9163
+652,697,Energy Credit,5186
+653,937,Disabled Access Credit,7940
+654,228,Adoption Credit,7442
+655,837,Retirement Savings Contribution Credit,3899
+656,270,Saver's Credit,7571
+657,940,Retirement Savings Contribution Credit,607
+658,40,Child Tax Credit,9911
+659,275,Earned Income Credit,415
+660,243,Child and Dependent Care Credit,7963
+661,347,Adoption Credit,9145
+662,632,Adoption Credit,8224
+663,322,Energy Credit,9137
+664,532,Saver's Credit,4068
+665,964,Earned Income Credit,1949
+666,788,Energy Credit,3735
+667,819,Home Office Deduction Credit,9840
+668,456,Adoption Credit,5053
+669,775,Credit for the Elderly or Disabled,7320
+670,260,Premium Tax Credit,3562
+671,780,Earned Income Credit,6358
+672,822,Residential Energy Efficient Property Credit,8232
+673,132,Credit for the Elderly or Disabled,4133
+674,849,Energy Credit,3825
+675,759,Energy Credit,5815
+676,751,Electric Vehicle Credit,7660
+677,286,Adoption Credit,1374
+678,43,Earned Income Credit,8558
+679,738,Child Tax Credit,9617
+680,430,Residential Energy Efficient Property Credit,2827
+681,151,Home Office Deduction Credit,9195
+682,195,Premium Tax Credit,6315
+683,400,Retirement Savings Contribution Credit,9046
+684,562,Electric Vehicle Credit,9442
+685,216,Electric Vehicle Credit,9122
+686,490,Adoption Credit,2241
+687,525,Residential Energy Efficient Property Credit,6282
+688,980,Disabled Access Credit,3940
+689,992,Disabled Access Credit,7792
+690,494,Premium Tax Credit,5098
+691,615,Electric Vehicle Credit,4996
+692,264,Credit for the Elderly or Disabled,8549
+693,254,American Opportunity Credit,406
+694,300,Electric Vehicle Credit,1219
+695,797,Electric Vehicle Credit,2046
+696,383,Education Credit,9966
+697,160,Child and Dependent Care Credit,7086
+698,117,Residential Energy Efficient Property Credit,5922
+699,114,Education Credit,1959
+700,965,Child Tax Credit,2528
+701,352,American Opportunity Credit,3800
+702,812,Retirement Savings Contribution Credit,7713
+703,129,Credit for the Elderly or Disabled,1763
+704,649,Earned Income Credit,7653
+705,294,Disabled Access Credit,5230
+706,265,Premium Tax Credit,9630
+707,5,Saver's Credit,6315
+708,871,Lifetime Learning Credit,6563
+709,140,Electric Vehicle Credit,9497
+710,828,Residential Energy Efficient Property Credit,2051
+711,649,Premium Tax Credit,6823
+712,112,Electric Vehicle Credit,8509
+713,734,Energy Credit,7516
+714,723,Retirement Savings Contribution Credit,5589
+715,32,Credit for the Elderly or Disabled,7198
+716,11,American Opportunity Credit,8166
+717,5,Home Office Deduction Credit,2204
+718,876,Earned Income Credit,6615
+719,518,Adoption Credit,424
+720,501,Lifetime Learning Credit,2845
+721,21,Home Office Deduction Credit,106
+722,286,Energy Credit,3519
+723,304,Lifetime Learning Credit,5653
+724,4,Child and Dependent Care Credit,788
+725,770,Child Tax Credit,6725
+726,689,Retirement Savings Contribution Credit,9038
+727,52,Child and Dependent Care Credit,3707
+728,989,Disabled Access Credit,4979
+729,517,Energy Credit,6556
+730,638,Saver's Credit,880
+731,294,Lifetime Learning Credit,8583
+732,318,Child Tax Credit,1932
+733,684,Child and Dependent Care Credit,6943
+734,342,Education Credit,2832
+735,942,Child Tax Credit,1196
+736,828,Lifetime Learning Credit,4215
+737,835,Disabled Access Credit,6227
+738,7,Lifetime Learning Credit,6650
+739,903,Credit for the Elderly or Disabled,7300
+740,561,Earned Income Credit,6905
+741,711,Child Tax Credit,9888
+742,376,Saver's Credit,4677
+743,845,Child Tax Credit,9847
+744,381,Electric Vehicle Credit,8225
+745,758,Child and Dependent Care Credit,8862
+746,773,Adoption Credit,7712
+747,153,Adoption Credit,1974
+748,258,Retirement Savings Contribution Credit,748
+749,94,Home Office Deduction Credit,1302
+750,632,Premium Tax Credit,28
+751,752,Energy Credit,9813
+752,690,Home Office Deduction Credit,1991
+753,929,Disabled Access Credit,9048
+754,42,Lifetime Learning Credit,1612
+755,163,Lifetime Learning Credit,7410
+756,879,Education Credit,5143
+757,591,Energy Credit,9793
+758,609,Saver's Credit,9304
+759,265,Saver's Credit,6598
+760,488,Credit for the Elderly or Disabled,1209
+761,135,Retirement Savings Contribution Credit,2306
+762,779,Earned Income Credit,570
+763,118,Residential Energy Efficient Property Credit,7242
+764,344,American Opportunity Credit,1545
+765,697,Saver's Credit,912
+766,148,Credit for the Elderly or Disabled,6783
+767,134,Electric Vehicle Credit,5693
+768,496,Lifetime Learning Credit,5028
+769,380,Disabled Access Credit,7143
+770,518,Education Credit,1499
+771,212,Saver's Credit,1609
+772,967,Residential Energy Efficient Property Credit,8655
+773,801,Retirement Savings Contribution Credit,3749
+774,577,Electric Vehicle Credit,8100
+775,908,Credit for the Elderly or Disabled,6588
+776,791,Disabled Access Credit,6082
+777,615,Earned Income Credit,3569
+778,279,Retirement Savings Contribution Credit,6074
+779,723,Education Credit,1546
+780,25,American Opportunity Credit,5145
+781,27,Saver's Credit,1856
+782,558,Disabled Access Credit,3711
+783,745,Lifetime Learning Credit,1462
+784,172,Lifetime Learning Credit,3976
+785,107,Residential Energy Efficient Property Credit,2968
+786,314,Residential Energy Efficient Property Credit,5112
+787,868,Premium Tax Credit,5997
+788,955,Retirement Savings Contribution Credit,7865
+789,201,Premium Tax Credit,1233
+790,640,Premium Tax Credit,3279
+791,894,Child Tax Credit,9156
+792,336,Education Credit,7080
+793,752,Earned Income Credit,1506
+794,314,Child Tax Credit,4674
+795,994,American Opportunity Credit,4479
+796,892,Education Credit,130
+797,785,Earned Income Credit,598
+798,386,Saver's Credit,1383
+799,52,Home Office Deduction Credit,5648
+800,992,Lifetime Learning Credit,1342
+801,284,Credit for the Elderly or Disabled,4990
+802,445,Saver's Credit,7139
+803,350,Lifetime Learning Credit,9880
+804,58,Saver's Credit,896
+805,62,Home Office Deduction Credit,9194
+806,94,Earned Income Credit,3609
+807,322,Education Credit,9188
+808,77,Energy Credit,3134
+809,647,Saver's Credit,71
+810,881,Child Tax Credit,8128
+811,183,Residential Energy Efficient Property Credit,5211
+812,387,Disabled Access Credit,3522
+813,952,Home Office Deduction Credit,87
+814,575,Earned Income Credit,3426
+815,586,Credit for the Elderly or Disabled,3980
+816,428,American Opportunity Credit,7864
+817,848,Home Office Deduction Credit,188
+818,498,Energy Credit,4493
+819,504,Child and Dependent Care Credit,814
+820,886,Child Tax Credit,6066
+821,765,Electric Vehicle Credit,3828
+822,113,Home Office Deduction Credit,3082
+823,458,Retirement Savings Contribution Credit,1530
+824,953,Child and Dependent Care Credit,5241
+825,393,Energy Credit,916
+826,43,Energy Credit,7905
+827,398,Residential Energy Efficient Property Credit,3394
+828,953,Home Office Deduction Credit,4299
+829,805,Retirement Savings Contribution Credit,2433
+830,407,Electric Vehicle Credit,5903
+831,559,Adoption Credit,6788
+832,122,Credit for the Elderly or Disabled,5916
+833,941,Residential Energy Efficient Property Credit,8508
+834,834,American Opportunity Credit,179
+835,18,Residential Energy Efficient Property Credit,8579
+836,50,Home Office Deduction Credit,4071
+837,214,Adoption Credit,5901
+838,921,Energy Credit,1018
+839,188,Premium Tax Credit,713
+840,410,Child Tax Credit,2372
+841,1000,Saver's Credit,9922
+842,221,Home Office Deduction Credit,4857
+843,215,Earned Income Credit,7439
+844,217,Premium Tax Credit,6465
+845,66,Education Credit,2986
+846,261,Education Credit,2293
+847,917,Energy Credit,6072
+848,298,American Opportunity Credit,9125
+849,630,Child Tax Credit,211
+850,262,Lifetime Learning Credit,4316
+851,519,Child Tax Credit,8639
+852,942,Retirement Savings Contribution Credit,863
+853,133,Adoption Credit,8695
+854,871,American Opportunity Credit,2021
+855,887,Residential Energy Efficient Property Credit,7721
+856,927,Energy Credit,7548
+857,311,Earned Income Credit,3435
+858,563,Education Credit,7883
+859,543,Lifetime Learning Credit,5892
+860,992,Education Credit,2362
+861,705,Child Tax Credit,9038
+862,645,Credit for the Elderly or Disabled,7597
+863,141,Saver's Credit,4487
+864,327,Lifetime Learning Credit,3156
+865,708,Energy Credit,7535
+866,823,Residential Energy Efficient Property Credit,6773
+867,457,Disabled Access Credit,7193
+868,701,Home Office Deduction Credit,5879
+869,896,Child Tax Credit,7438
+870,927,Child Tax Credit,7806
+871,327,American Opportunity Credit,3523
+872,353,Disabled Access Credit,9151
+873,96,American Opportunity Credit,5555
+874,767,Energy Credit,4346
+875,460,Energy Credit,3262
+876,728,Adoption Credit,9522
+877,224,Premium Tax Credit,501
+878,913,Saver's Credit,830
+879,416,Credit for the Elderly or Disabled,9035
+880,105,Child and Dependent Care Credit,8541
+881,301,American Opportunity Credit,2326
+882,491,Home Office Deduction Credit,5247
+883,823,Home Office Deduction Credit,9371
+884,882,Retirement Savings Contribution Credit,652
+885,957,Saver's Credit,475
+886,898,Energy Credit,9258
+887,465,Retirement Savings Contribution Credit,2703
+888,913,Child Tax Credit,2095
+889,138,Electric Vehicle Credit,8578
+890,931,Energy Credit,3314
+891,83,American Opportunity Credit,304
+892,87,Child and Dependent Care Credit,6359
+893,743,Lifetime Learning Credit,6110
+894,198,Energy Credit,3502
+895,681,Child and Dependent Care Credit,2807
+896,763,Lifetime Learning Credit,8454
+897,980,Residential Energy Efficient Property Credit,5806
+898,90,Home Office Deduction Credit,7100
+899,23,Child Tax Credit,8631
+900,755,Credit for the Elderly or Disabled,9355
+901,307,Retirement Savings Contribution Credit,9917
+902,134,Retirement Savings Contribution Credit,1140
+903,568,Residential Energy Efficient Property Credit,997
+904,339,Saver's Credit,1210
+905,732,Energy Credit,3079
+906,482,Electric Vehicle Credit,9813
+907,281,Child and Dependent Care Credit,914
+908,529,Child Tax Credit,2041
+909,662,Earned Income Credit,2355
+910,575,Disabled Access Credit,9559
+911,837,Disabled Access Credit,3532
+912,876,Earned Income Credit,4888
+913,628,Energy Credit,715
+914,941,Energy Credit,1730
+915,643,Residential Energy Efficient Property Credit,1616
+916,184,Energy Credit,3148
+917,631,Lifetime Learning Credit,4949
+918,353,Residential Energy Efficient Property Credit,4194
+919,155,Adoption Credit,7414
+920,543,Retirement Savings Contribution Credit,8276
+921,599,Saver's Credit,828
+922,991,Residential Energy Efficient Property Credit,9735
+923,576,Premium Tax Credit,9377
+924,642,Child and Dependent Care Credit,3493
+925,980,Home Office Deduction Credit,8426
+926,215,Residential Energy Efficient Property Credit,3614
+927,754,Child and Dependent Care Credit,8208
+928,818,Energy Credit,8323
+929,335,Saver's Credit,660
+930,863,Saver's Credit,6500
+931,853,Electric Vehicle Credit,5448
+932,337,Saver's Credit,8404
+933,486,Child and Dependent Care Credit,9197
+934,965,American Opportunity Credit,4315
+935,666,Lifetime Learning Credit,944
+936,937,Earned Income Credit,607
+937,861,Disabled Access Credit,854
+938,382,Electric Vehicle Credit,1373
+939,721,Home Office Deduction Credit,4382
+940,512,Premium Tax Credit,2777
+941,381,Premium Tax Credit,8278
+942,886,Adoption Credit,6959
+943,358,Adoption Credit,1871
+944,513,Retirement Savings Contribution Credit,790
+945,656,Home Office Deduction Credit,7326
+946,310,Child and Dependent Care Credit,1633
+947,412,Adoption Credit,5150
+948,62,Education Credit,739
+949,358,Education Credit,2408
+950,289,Earned Income Credit,7584
+951,493,Home Office Deduction Credit,3675
+952,506,Retirement Savings Contribution Credit,4275
+953,982,Energy Credit,4200
+954,574,Retirement Savings Contribution Credit,928
+955,847,Disabled Access Credit,3836
+956,735,Earned Income Credit,560
+957,676,Residential Energy Efficient Property Credit,5590
+958,656,Education Credit,6312
+959,558,Saver's Credit,2904
+960,540,Lifetime Learning Credit,3269
+961,70,Education Credit,2441
+962,869,Adoption Credit,2837
+963,807,Electric Vehicle Credit,4579
+964,105,Energy Credit,3094
+965,341,Saver's Credit,1087
+966,333,Electric Vehicle Credit,4327
+967,517,Education Credit,8475
+968,21,Education Credit,5103
+969,588,Earned Income Credit,1663
+970,543,Adoption Credit,1578
+971,336,Lifetime Learning Credit,9373
+972,167,Adoption Credit,4008
+973,482,Home Office Deduction Credit,1046
+974,803,Home Office Deduction Credit,4363
+975,161,Credit for the Elderly or Disabled,8485
+976,528,Lifetime Learning Credit,1898
+977,73,Energy Credit,147
+978,849,Adoption Credit,6524
+979,740,American Opportunity Credit,7987
+980,682,Disabled Access Credit,3599
+981,304,Energy Credit,8228
+982,896,Child and Dependent Care Credit,5352
+983,97,Lifetime Learning Credit,8116
+984,304,Lifetime Learning Credit,6555
+985,45,Electric Vehicle Credit,1694
+986,599,Energy Credit,7126
+987,370,Electric Vehicle Credit,4085
+988,80,Education Credit,9967
+989,670,Energy Credit,1133
+990,95,Adoption Credit,3862
+991,530,Electric Vehicle Credit,2175
+992,793,Education Credit,8993
+993,700,Electric Vehicle Credit,7367
+994,38,Child and Dependent Care Credit,8777
+995,130,Adoption Credit,4310
+996,863,Saver's Credit,5048
+997,783,Education Credit,4329
+998,21,Retirement Savings Contribution Credit,6274
+999,472,Child Tax Credit,6030
+1000,775,Home Office Deduction Credit,4343

@@ -1,0 +1,1001 @@
+payment_id,taxpayer_id,payment_type,amount
+1,128,Estimated Tax Payment,7912
+2,172,Self-Employment Tax Payment,8294
+3,470,Prepayment,8349
+4,447,Withholding,533
+5,574,Self-Employment Tax Payment,5946
+6,39,Penalty Payment,8985
+7,71,Estimated Tax Payment,5985
+8,834,Additional Payment,231
+9,52,Income Tax Payment,7309
+10,508,Final Settlement,4013
+11,489,Installment Payment,2014
+12,750,Estimated Penalty Payment,9073
+13,159,Additional Payment,5338
+14,922,Additional Payment,8855
+15,571,Final Settlement,7902
+16,567,Property Tax Payment,1697
+17,800,Income Tax Payment,6049
+18,844,Annual Tax Payment,322
+19,766,Prepayment,3472
+20,587,Final Settlement,8258
+21,166,Estimated Penalty Payment,8902
+22,647,Withholding,2779
+23,202,Local Tax Payment,4673
+24,905,Installment Payment,7184
+25,903,Property Tax Payment,5974
+26,374,Estimated Penalty Payment,8932
+27,593,Final Settlement,9718
+28,624,Withholding,2831
+29,806,Final Settlement,52
+30,201,Withholding,1630
+31,272,Property Tax Payment,2145
+32,277,Local Tax Payment,7824
+33,992,Final Settlement,339
+34,256,Withholding,2491
+35,369,Final Settlement,1251
+36,132,Additional Payment,7015
+37,146,Property Tax Payment,5618
+38,558,Property Tax Payment,7346
+39,770,Prepayment,4077
+40,951,Withholding,9167
+41,922,Annual Tax Payment,2893
+42,199,Annual Tax Payment,5858
+43,149,Estimated Tax Payment,2663
+44,715,Penalty Payment,121
+45,234,Withholding,9087
+46,299,Final Settlement,4679
+47,861,Withholding,7806
+48,466,Additional Payment,3627
+49,357,Local Tax Payment,5290
+50,311,Final Settlement,3143
+51,43,Estimated Penalty Payment,9779
+52,451,Estimated Tax Payment,2847
+53,209,Estimated Tax Payment,3322
+54,322,Installment Payment,547
+55,578,Estimated Tax Payment,1646
+56,418,Estimated Tax Payment,9064
+57,801,Penalty Payment,566
+58,465,Estimated Penalty Payment,969
+59,44,Annual Tax Payment,324
+60,601,Property Tax Payment,6690
+61,286,Additional Payment,1804
+62,304,Withholding,3675
+63,192,Penalty Payment,4210
+64,551,Withholding,3395
+65,467,Property Tax Payment,5939
+66,212,Self-Employment Tax Payment,5539
+67,216,Prepayment,5963
+68,27,Property Tax Payment,2183
+69,545,Quarterly Tax Payment,8173
+70,189,Additional Payment,5389
+71,495,Estimated Tax Payment,9860
+72,381,Quarterly Tax Payment,6008
+73,356,Estimated Tax Payment,8452
+74,450,Prepayment,4675
+75,655,Self-Employment Tax Payment,618
+76,282,Estimated Tax Payment,3976
+77,690,Withholding,7533
+78,753,Final Settlement,7996
+79,637,State Tax Payment,357
+80,467,Withholding,319
+81,962,Property Tax Payment,5318
+82,76,Self-Employment Tax Payment,312
+83,563,Prepayment,4478
+84,778,Estimated Tax Payment,3477
+85,993,Estimated Tax Payment,2903
+86,944,Installment Payment,1930
+87,465,Additional Payment,4052
+88,542,Self-Employment Tax Payment,6180
+89,220,Annual Tax Payment,2594
+90,335,Withholding,2668
+91,260,Income Tax Payment,8191
+92,191,Prepayment,8081
+93,299,Quarterly Tax Payment,8869
+94,998,Income Tax Payment,749
+95,361,Property Tax Payment,7475
+96,921,Self-Employment Tax Payment,3289
+97,322,Quarterly Tax Payment,2363
+98,358,Estimated Penalty Payment,3174
+99,26,Withholding,3996
+100,974,Prepayment,3803
+101,562,Quarterly Tax Payment,6880
+102,26,Estimated Penalty Payment,8236
+103,209,State Tax Payment,9287
+104,490,Estimated Penalty Payment,4013
+105,911,State Tax Payment,384
+106,684,Installment Payment,4284
+107,472,Prepayment,4954
+108,638,Estimated Penalty Payment,4102
+109,144,Final Settlement,6115
+110,487,Final Settlement,8741
+111,289,Installment Payment,3948
+112,466,Additional Payment,7438
+113,252,Final Settlement,5714
+114,230,Withholding,6039
+115,591,Penalty Payment,2265
+116,186,Annual Tax Payment,7242
+117,434,Final Settlement,4650
+118,463,Estimated Tax Payment,5871
+119,241,Self-Employment Tax Payment,2291
+120,703,Income Tax Payment,772
+121,458,Quarterly Tax Payment,7325
+122,576,Final Settlement,9757
+123,147,Estimated Penalty Payment,2950
+124,717,Estimated Tax Payment,2423
+125,934,Withholding,8501
+126,671,Prepayment,1481
+127,900,Penalty Payment,9944
+128,528,Self-Employment Tax Payment,5819
+129,694,Property Tax Payment,5330
+130,850,Self-Employment Tax Payment,8507
+131,55,Self-Employment Tax Payment,4098
+132,341,Prepayment,5344
+133,818,Annual Tax Payment,9836
+134,669,Income Tax Payment,5477
+135,237,Final Settlement,484
+136,909,Estimated Penalty Payment,2127
+137,10,Withholding,8127
+138,802,Self-Employment Tax Payment,867
+139,718,Final Settlement,2494
+140,440,Self-Employment Tax Payment,6557
+141,868,Final Settlement,2825
+142,439,Penalty Payment,8379
+143,253,Annual Tax Payment,4236
+144,359,Additional Payment,298
+145,595,Estimated Tax Payment,219
+146,618,Penalty Payment,346
+147,83,Additional Payment,951
+148,535,Withholding,4031
+149,843,Penalty Payment,1437
+150,2,Annual Tax Payment,4926
+151,995,Quarterly Tax Payment,5750
+152,540,Withholding,5333
+153,337,Estimated Tax Payment,1338
+154,481,Property Tax Payment,6715
+155,306,Penalty Payment,8102
+156,668,Income Tax Payment,7825
+157,464,Additional Payment,9372
+158,147,Penalty Payment,7530
+159,948,Additional Payment,562
+160,194,Prepayment,1269
+161,888,Additional Payment,7693
+162,526,Prepayment,7923
+163,895,Local Tax Payment,6433
+164,24,Penalty Payment,2121
+165,483,Annual Tax Payment,164
+166,751,Estimated Tax Payment,1564
+167,466,Estimated Tax Payment,2309
+168,542,Estimated Tax Payment,739
+169,745,Quarterly Tax Payment,3455
+170,776,Additional Payment,6234
+171,100,Installment Payment,3761
+172,811,Final Settlement,4420
+173,346,Withholding,953
+174,271,Income Tax Payment,7513
+175,919,Installment Payment,2417
+176,285,Additional Payment,5201
+177,240,Penalty Payment,1869
+178,278,Property Tax Payment,4758
+179,542,Additional Payment,8408
+180,823,Annual Tax Payment,6826
+181,758,Withholding,8922
+182,398,Self-Employment Tax Payment,8592
+183,575,Installment Payment,2233
+184,8,Estimated Penalty Payment,8767
+185,44,Income Tax Payment,9654
+186,161,Estimated Penalty Payment,7088
+187,550,Quarterly Tax Payment,5040
+188,435,Installment Payment,1198
+189,881,Prepayment,9034
+190,599,Annual Tax Payment,8418
+191,761,Quarterly Tax Payment,6141
+192,949,Property Tax Payment,1384
+193,641,Additional Payment,1145
+194,882,Final Settlement,46
+195,546,Penalty Payment,2156
+196,578,Annual Tax Payment,5455
+197,892,Local Tax Payment,2516
+198,115,Self-Employment Tax Payment,2667
+199,350,Additional Payment,3619
+200,343,Property Tax Payment,7206
+201,651,State Tax Payment,7664
+202,176,Withholding,7976
+203,752,State Tax Payment,729
+204,750,Penalty Payment,7973
+205,583,Quarterly Tax Payment,4525
+206,218,Additional Payment,3966
+207,554,Estimated Tax Payment,1199
+208,652,Self-Employment Tax Payment,8981
+209,957,Self-Employment Tax Payment,6907
+210,368,Final Settlement,6380
+211,201,Quarterly Tax Payment,8319
+212,105,Annual Tax Payment,5644
+213,358,Self-Employment Tax Payment,7138
+214,273,Quarterly Tax Payment,9553
+215,383,Additional Payment,70
+216,562,Withholding,1929
+217,110,Quarterly Tax Payment,4574
+218,123,Estimated Tax Payment,8943
+219,358,Final Settlement,5724
+220,1000,Self-Employment Tax Payment,9886
+221,6,Quarterly Tax Payment,2029
+222,162,Annual Tax Payment,5580
+223,813,Installment Payment,5195
+224,788,Prepayment,6141
+225,597,State Tax Payment,1355
+226,553,Quarterly Tax Payment,9135
+227,125,Local Tax Payment,1924
+228,8,Penalty Payment,4917
+229,299,State Tax Payment,2946
+230,767,Self-Employment Tax Payment,1281
+231,569,State Tax Payment,1498
+232,354,Estimated Penalty Payment,9378
+233,601,Additional Payment,973
+234,456,Property Tax Payment,2503
+235,263,Withholding,5704
+236,391,Prepayment,7224
+237,383,Installment Payment,1661
+238,827,Withholding,688
+239,7,State Tax Payment,7117
+240,148,Withholding,779
+241,495,Estimated Tax Payment,7296
+242,274,Final Settlement,7797
+243,319,State Tax Payment,3821
+244,161,Self-Employment Tax Payment,7587
+245,238,Withholding,7252
+246,691,Self-Employment Tax Payment,3640
+247,24,Additional Payment,4549
+248,462,Final Settlement,8805
+249,356,Prepayment,4717
+250,276,Income Tax Payment,7847
+251,37,Quarterly Tax Payment,9546
+252,90,Estimated Penalty Payment,8853
+253,252,Prepayment,1676
+254,321,Withholding,5814
+255,75,Local Tax Payment,4514
+256,341,Income Tax Payment,3095
+257,460,Income Tax Payment,2326
+258,400,Estimated Tax Payment,6390
+259,934,Income Tax Payment,1545
+260,381,State Tax Payment,5959
+261,377,Quarterly Tax Payment,3821
+262,606,Local Tax Payment,2939
+263,361,Estimated Penalty Payment,2354
+264,783,Estimated Penalty Payment,3668
+265,743,Additional Payment,331
+266,314,Self-Employment Tax Payment,420
+267,333,Self-Employment Tax Payment,6291
+268,744,Installment Payment,8856
+269,103,Installment Payment,7406
+270,430,Final Settlement,3653
+271,682,Additional Payment,7940
+272,912,Self-Employment Tax Payment,6545
+273,546,Local Tax Payment,5695
+274,258,Income Tax Payment,5717
+275,179,Penalty Payment,6747
+276,374,Local Tax Payment,2870
+277,547,Property Tax Payment,107
+278,876,Annual Tax Payment,2865
+279,647,Estimated Tax Payment,3728
+280,204,Self-Employment Tax Payment,6871
+281,112,Property Tax Payment,8860
+282,431,Self-Employment Tax Payment,8250
+283,142,Installment Payment,2637
+284,304,Prepayment,1518
+285,704,Local Tax Payment,4942
+286,74,Estimated Tax Payment,635
+287,509,Estimated Penalty Payment,4522
+288,656,Withholding,8847
+289,69,State Tax Payment,2018
+290,499,Quarterly Tax Payment,6776
+291,991,Installment Payment,2047
+292,423,Property Tax Payment,367
+293,735,Property Tax Payment,1782
+294,469,State Tax Payment,3518
+295,167,Self-Employment Tax Payment,3208
+296,664,Quarterly Tax Payment,334
+297,450,Self-Employment Tax Payment,3236
+298,899,Annual Tax Payment,8614
+299,867,Quarterly Tax Payment,9192
+300,557,State Tax Payment,6314
+301,356,Annual Tax Payment,5998
+302,736,State Tax Payment,7614
+303,710,Property Tax Payment,3498
+304,697,State Tax Payment,9077
+305,360,Local Tax Payment,3799
+306,451,Annual Tax Payment,4374
+307,525,Self-Employment Tax Payment,3634
+308,437,Quarterly Tax Payment,5009
+309,892,Penalty Payment,150
+310,749,Installment Payment,4869
+311,591,Local Tax Payment,3237
+312,743,Local Tax Payment,8205
+313,856,Installment Payment,7412
+314,856,Additional Payment,1493
+315,618,Annual Tax Payment,2893
+316,741,Additional Payment,3261
+317,463,Annual Tax Payment,2482
+318,819,Prepayment,6845
+319,361,State Tax Payment,7308
+320,640,Quarterly Tax Payment,6871
+321,996,Local Tax Payment,3053
+322,566,Annual Tax Payment,7587
+323,722,Additional Payment,9344
+324,255,Withholding,3767
+325,9,Prepayment,1163
+326,380,Property Tax Payment,2311
+327,722,Final Settlement,3026
+328,397,Estimated Penalty Payment,5385
+329,700,Quarterly Tax Payment,7117
+330,854,Quarterly Tax Payment,1152
+331,959,Final Settlement,1716
+332,942,Self-Employment Tax Payment,4271
+333,791,Penalty Payment,1950
+334,300,Estimated Penalty Payment,3673
+335,831,Estimated Penalty Payment,5922
+336,917,Penalty Payment,4676
+337,951,Penalty Payment,8160
+338,421,Income Tax Payment,7738
+339,397,Penalty Payment,4685
+340,911,Estimated Tax Payment,9900
+341,157,Final Settlement,5269
+342,306,Income Tax Payment,2312
+343,650,Estimated Penalty Payment,2841
+344,997,Final Settlement,8996
+345,470,Self-Employment Tax Payment,4030
+346,297,Additional Payment,6467
+347,727,Installment Payment,1454
+348,175,Withholding,3035
+349,380,Local Tax Payment,9057
+350,979,Estimated Tax Payment,906
+351,27,Local Tax Payment,5157
+352,21,Local Tax Payment,7759
+353,162,Installment Payment,7815
+354,175,Final Settlement,673
+355,8,Quarterly Tax Payment,2753
+356,672,Additional Payment,3864
+357,949,Local Tax Payment,6952
+358,653,Local Tax Payment,9499
+359,205,Installment Payment,8451
+360,919,Estimated Penalty Payment,8172
+361,281,State Tax Payment,2724
+362,336,Annual Tax Payment,6952
+363,871,Self-Employment Tax Payment,1377
+364,984,Self-Employment Tax Payment,2395
+365,305,Quarterly Tax Payment,7019
+366,244,Installment Payment,3353
+367,10,Local Tax Payment,6314
+368,478,Additional Payment,7370
+369,747,Quarterly Tax Payment,4594
+370,1,Penalty Payment,8880
+371,332,Estimated Penalty Payment,6985
+372,127,Installment Payment,268
+373,460,Self-Employment Tax Payment,9387
+374,15,State Tax Payment,7658
+375,160,Final Settlement,7975
+376,760,Self-Employment Tax Payment,1208
+377,58,Withholding,7532
+378,573,Self-Employment Tax Payment,7799
+379,954,Income Tax Payment,8394
+380,514,Annual Tax Payment,1580
+381,812,Installment Payment,2975
+382,851,Estimated Penalty Payment,7730
+383,25,State Tax Payment,8964
+384,810,Prepayment,7536
+385,689,State Tax Payment,8021
+386,193,Prepayment,9188
+387,101,Prepayment,6371
+388,139,Withholding,3821
+389,82,Annual Tax Payment,1134
+390,413,Installment Payment,5871
+391,816,Final Settlement,9160
+392,30,Final Settlement,3223
+393,62,Additional Payment,7690
+394,813,Estimated Penalty Payment,1958
+395,862,Penalty Payment,5833
+396,585,Final Settlement,2839
+397,665,Annual Tax Payment,8518
+398,433,State Tax Payment,1472
+399,656,Income Tax Payment,2671
+400,823,Additional Payment,9272
+401,822,State Tax Payment,213
+402,577,Estimated Penalty Payment,6837
+403,564,Withholding,3240
+404,280,Additional Payment,4860
+405,290,Installment Payment,1767
+406,967,Withholding,6259
+407,519,Withholding,5034
+408,497,Penalty Payment,2028
+409,335,Withholding,7209
+410,500,Estimated Penalty Payment,3243
+411,260,Installment Payment,2939
+412,394,Prepayment,2132
+413,135,Property Tax Payment,6460
+414,113,Estimated Penalty Payment,5012
+415,978,Self-Employment Tax Payment,7798
+416,507,Income Tax Payment,1032
+417,94,Property Tax Payment,1506
+418,219,Annual Tax Payment,2609
+419,99,Estimated Penalty Payment,6242
+420,641,Annual Tax Payment,3754
+421,772,Additional Payment,2291
+422,842,Annual Tax Payment,1078
+423,646,Quarterly Tax Payment,8003
+424,990,Additional Payment,9624
+425,89,Income Tax Payment,5969
+426,856,Prepayment,3238
+427,780,Installment Payment,5816
+428,650,Final Settlement,5582
+429,195,State Tax Payment,1983
+430,891,Income Tax Payment,7325
+431,17,Withholding,700
+432,261,Installment Payment,7231
+433,186,Property Tax Payment,9556
+434,541,Final Settlement,1528
+435,230,Penalty Payment,2350
+436,548,Withholding,1174
+437,954,Additional Payment,9613
+438,497,Self-Employment Tax Payment,9756
+439,976,State Tax Payment,9862
+440,744,Income Tax Payment,1308
+441,217,Local Tax Payment,2256
+442,983,Additional Payment,8402
+443,56,Final Settlement,3942
+444,155,Additional Payment,398
+445,521,Additional Payment,7468
+446,221,Property Tax Payment,5669
+447,714,Penalty Payment,9767
+448,896,Prepayment,8460
+449,289,Estimated Tax Payment,2171
+450,637,State Tax Payment,381
+451,665,Installment Payment,4160
+452,10,Quarterly Tax Payment,7063
+453,827,Additional Payment,7110
+454,201,Income Tax Payment,4245
+455,214,Additional Payment,7698
+456,323,Annual Tax Payment,2581
+457,607,Penalty Payment,4046
+458,530,Self-Employment Tax Payment,4307
+459,489,Prepayment,3809
+460,879,Self-Employment Tax Payment,4972
+461,211,Estimated Penalty Payment,5405
+462,793,Additional Payment,4792
+463,167,State Tax Payment,782
+464,770,Prepayment,9773
+465,222,Local Tax Payment,4509
+466,700,Prepayment,4509
+467,120,Withholding,3664
+468,952,Self-Employment Tax Payment,9086
+469,644,Quarterly Tax Payment,5830
+470,180,Income Tax Payment,1041
+471,680,Final Settlement,6042
+472,113,Self-Employment Tax Payment,8783
+473,205,Estimated Penalty Payment,6696
+474,617,Local Tax Payment,100
+475,72,Income Tax Payment,4922
+476,540,Self-Employment Tax Payment,6025
+477,52,Quarterly Tax Payment,4967
+478,217,Estimated Penalty Payment,4673
+479,403,Quarterly Tax Payment,1705
+480,416,Estimated Tax Payment,2588
+481,812,Additional Payment,8359
+482,1,Prepayment,8000
+483,294,Penalty Payment,3227
+484,802,Local Tax Payment,7643
+485,449,Income Tax Payment,1036
+486,803,Penalty Payment,7983
+487,393,Installment Payment,6697
+488,472,Local Tax Payment,5741
+489,431,Withholding,5297
+490,653,Penalty Payment,2484
+491,524,Withholding,753
+492,62,Local Tax Payment,5389
+493,259,Prepayment,6510
+494,967,Quarterly Tax Payment,9864
+495,820,Withholding,7670
+496,990,Quarterly Tax Payment,5252
+497,216,Self-Employment Tax Payment,2565
+498,776,Local Tax Payment,3386
+499,947,Additional Payment,9654
+500,411,Final Settlement,7366
+501,106,Penalty Payment,5438
+502,498,Property Tax Payment,5683
+503,138,Additional Payment,1728
+504,93,Withholding,9034
+505,799,Estimated Penalty Payment,7304
+506,600,Final Settlement,4915
+507,184,Annual Tax Payment,6085
+508,227,Estimated Penalty Payment,8017
+509,885,Quarterly Tax Payment,4772
+510,777,State Tax Payment,5580
+511,175,Annual Tax Payment,8479
+512,492,State Tax Payment,4267
+513,385,Estimated Tax Payment,1175
+514,70,Local Tax Payment,7048
+515,396,Estimated Tax Payment,2235
+516,476,Final Settlement,8643
+517,785,Withholding,6889
+518,285,Estimated Penalty Payment,2919
+519,759,Final Settlement,5917
+520,120,Annual Tax Payment,9669
+521,840,State Tax Payment,2095
+522,600,State Tax Payment,6635
+523,189,Annual Tax Payment,3426
+524,118,Income Tax Payment,7084
+525,49,Final Settlement,8407
+526,794,Final Settlement,5363
+527,930,Quarterly Tax Payment,5965
+528,940,Quarterly Tax Payment,5567
+529,187,Self-Employment Tax Payment,7307
+530,891,Prepayment,3660
+531,832,Additional Payment,590
+532,926,Prepayment,8719
+533,650,Quarterly Tax Payment,2273
+534,399,Estimated Penalty Payment,5717
+535,674,Property Tax Payment,8318
+536,302,Withholding,3950
+537,928,Annual Tax Payment,7212
+538,781,Additional Payment,1894
+539,687,Quarterly Tax Payment,4245
+540,147,Self-Employment Tax Payment,5054
+541,590,Local Tax Payment,4235
+542,373,Annual Tax Payment,72
+543,956,Estimated Tax Payment,7263
+544,275,Local Tax Payment,8301
+545,792,Income Tax Payment,8828
+546,129,Prepayment,706
+547,57,Quarterly Tax Payment,2764
+548,937,Self-Employment Tax Payment,3776
+549,987,Final Settlement,1522
+550,117,Estimated Tax Payment,6454
+551,31,Quarterly Tax Payment,9470
+552,901,Installment Payment,8368
+553,162,Quarterly Tax Payment,7296
+554,166,Self-Employment Tax Payment,2753
+555,643,Self-Employment Tax Payment,58
+556,195,Penalty Payment,2571
+557,67,Income Tax Payment,969
+558,899,Estimated Penalty Payment,5423
+559,762,Final Settlement,4575
+560,363,Additional Payment,9783
+561,352,Penalty Payment,2162
+562,26,Self-Employment Tax Payment,7522
+563,738,Local Tax Payment,5196
+564,594,Quarterly Tax Payment,4217
+565,710,Quarterly Tax Payment,7819
+566,315,Self-Employment Tax Payment,7340
+567,108,Property Tax Payment,1515
+568,789,Final Settlement,440
+569,577,Additional Payment,8446
+570,603,Property Tax Payment,5609
+571,748,Annual Tax Payment,9805
+572,393,Local Tax Payment,9753
+573,940,Estimated Penalty Payment,7075
+574,98,Quarterly Tax Payment,4739
+575,854,Property Tax Payment,1783
+576,329,Property Tax Payment,9863
+577,357,Final Settlement,4096
+578,923,Installment Payment,1377
+579,245,Additional Payment,5420
+580,278,Penalty Payment,601
+581,286,Final Settlement,6715
+582,731,Final Settlement,6669
+583,690,Estimated Tax Payment,4086
+584,752,Annual Tax Payment,8747
+585,8,Additional Payment,3589
+586,47,Penalty Payment,1043
+587,7,Installment Payment,6900
+588,532,Quarterly Tax Payment,7034
+589,943,Final Settlement,2317
+590,948,Prepayment,6438
+591,884,State Tax Payment,3357
+592,70,State Tax Payment,7601
+593,998,Estimated Tax Payment,551
+594,124,Installment Payment,9914
+595,539,Estimated Tax Payment,6934
+596,315,Quarterly Tax Payment,9533
+597,916,Annual Tax Payment,7408
+598,763,Property Tax Payment,1642
+599,852,Final Settlement,7385
+600,46,Additional Payment,8803
+601,966,Annual Tax Payment,7415
+602,386,Quarterly Tax Payment,2786
+603,39,Annual Tax Payment,9457
+604,907,Additional Payment,7622
+605,43,Installment Payment,2740
+606,112,Annual Tax Payment,8322
+607,160,Prepayment,7341
+608,225,Local Tax Payment,4719
+609,850,Withholding,0
+610,14,Estimated Penalty Payment,9256
+611,498,Income Tax Payment,8365
+612,21,State Tax Payment,9282
+613,531,Self-Employment Tax Payment,4919
+614,99,Quarterly Tax Payment,1413
+615,386,Final Settlement,5128
+616,439,Property Tax Payment,3701
+617,858,Penalty Payment,4502
+618,816,Income Tax Payment,5649
+619,190,Additional Payment,5653
+620,720,Installment Payment,6650
+621,885,Local Tax Payment,490
+622,2,Penalty Payment,9990
+623,236,Annual Tax Payment,3648
+624,64,Local Tax Payment,4235
+625,468,Property Tax Payment,4535
+626,144,Additional Payment,2356
+627,280,Estimated Penalty Payment,9862
+628,748,Penalty Payment,8852
+629,696,Estimated Penalty Payment,636
+630,867,Self-Employment Tax Payment,5849
+631,755,Local Tax Payment,6304
+632,707,Prepayment,6076
+633,903,Installment Payment,801
+634,845,Local Tax Payment,2577
+635,355,Income Tax Payment,6073
+636,17,Estimated Tax Payment,260
+637,873,Final Settlement,6766
+638,5,Annual Tax Payment,9188
+639,813,Self-Employment Tax Payment,8346
+640,658,Annual Tax Payment,4722
+641,218,Final Settlement,6197
+642,966,Estimated Penalty Payment,5277
+643,867,Prepayment,1206
+644,330,Final Settlement,17
+645,733,Penalty Payment,5274
+646,786,Final Settlement,5358
+647,7,Annual Tax Payment,412
+648,379,Estimated Tax Payment,7114
+649,289,Penalty Payment,7
+650,384,Income Tax Payment,900
+651,972,Final Settlement,4591
+652,282,Annual Tax Payment,48
+653,258,Income Tax Payment,1122
+654,380,Income Tax Payment,3528
+655,358,Estimated Penalty Payment,9003
+656,602,Installment Payment,5015
+657,216,Quarterly Tax Payment,9020
+658,848,Penalty Payment,4181
+659,561,Withholding,4416
+660,212,Prepayment,6053
+661,166,Withholding,1239
+662,469,Estimated Penalty Payment,7442
+663,388,Prepayment,2331
+664,581,Final Settlement,1438
+665,160,Final Settlement,2321
+666,67,Installment Payment,4400
+667,854,Quarterly Tax Payment,5507
+668,583,Additional Payment,9927
+669,375,Final Settlement,4978
+670,248,Withholding,1582
+671,899,Property Tax Payment,2518
+672,35,Estimated Tax Payment,2484
+673,348,Installment Payment,4682
+674,150,Quarterly Tax Payment,4744
+675,395,Property Tax Payment,9447
+676,960,Estimated Tax Payment,7406
+677,903,Prepayment,1895
+678,792,State Tax Payment,6085
+679,654,Withholding,6231
+680,46,Final Settlement,8400
+681,965,Prepayment,7413
+682,445,Prepayment,3543
+683,738,Quarterly Tax Payment,7994
+684,61,Annual Tax Payment,4808
+685,126,Additional Payment,1825
+686,582,Installment Payment,6407
+687,780,Income Tax Payment,9334
+688,990,Final Settlement,8490
+689,954,Penalty Payment,9158
+690,193,Withholding,7692
+691,271,Final Settlement,9825
+692,285,Quarterly Tax Payment,9468
+693,726,Self-Employment Tax Payment,476
+694,297,Self-Employment Tax Payment,1858
+695,861,Annual Tax Payment,1721
+696,694,Prepayment,2056
+697,982,Withholding,9027
+698,592,Additional Payment,1523
+699,27,Penalty Payment,4872
+700,411,Local Tax Payment,5421
+701,545,Property Tax Payment,2650
+702,809,Withholding,3197
+703,164,Estimated Tax Payment,7888
+704,305,Self-Employment Tax Payment,1106
+705,297,Estimated Penalty Payment,6808
+706,99,Final Settlement,9055
+707,466,Penalty Payment,4325
+708,37,Final Settlement,1403
+709,835,Withholding,9051
+710,787,Annual Tax Payment,1238
+711,966,Self-Employment Tax Payment,448
+712,752,Final Settlement,5668
+713,812,Annual Tax Payment,8825
+714,83,Penalty Payment,3217
+715,320,Installment Payment,1809
+716,929,Quarterly Tax Payment,2201
+717,709,Annual Tax Payment,9823
+718,334,Final Settlement,3430
+719,366,Prepayment,2699
+720,562,Installment Payment,4151
+721,804,Income Tax Payment,8587
+722,874,Quarterly Tax Payment,5097
+723,318,Additional Payment,3582
+724,786,State Tax Payment,4905
+725,549,Income Tax Payment,3017
+726,786,Quarterly Tax Payment,7910
+727,690,Installment Payment,6880
+728,104,Withholding,8672
+729,762,Quarterly Tax Payment,9265
+730,447,Property Tax Payment,7919
+731,466,Local Tax Payment,8604
+732,833,Self-Employment Tax Payment,9035
+733,933,Quarterly Tax Payment,8672
+734,907,Income Tax Payment,5735
+735,804,Property Tax Payment,391
+736,466,Final Settlement,1105
+737,602,State Tax Payment,6760
+738,490,Prepayment,7763
+739,641,Quarterly Tax Payment,4269
+740,713,Local Tax Payment,5112
+741,913,State Tax Payment,6288
+742,717,Final Settlement,3095
+743,83,Prepayment,1509
+744,587,Estimated Penalty Payment,6664
+745,196,Self-Employment Tax Payment,7479
+746,934,State Tax Payment,8119
+747,275,Installment Payment,7677
+748,71,Prepayment,3153
+749,181,Property Tax Payment,8889
+750,123,Installment Payment,130
+751,877,Withholding,2754
+752,204,Final Settlement,2885
+753,14,Quarterly Tax Payment,9565
+754,750,Property Tax Payment,6286
+755,140,Quarterly Tax Payment,3637
+756,339,Withholding,5780
+757,759,Prepayment,1302
+758,65,Estimated Penalty Payment,3092
+759,985,State Tax Payment,3099
+760,309,Quarterly Tax Payment,4118
+761,986,Prepayment,2796
+762,626,Estimated Penalty Payment,3189
+763,209,Annual Tax Payment,1161
+764,983,Self-Employment Tax Payment,5607
+765,239,Prepayment,6513
+766,713,Property Tax Payment,5027
+767,84,Additional Payment,3527
+768,666,Quarterly Tax Payment,8110
+769,427,Quarterly Tax Payment,8463
+770,765,Property Tax Payment,6204
+771,68,Local Tax Payment,3217
+772,893,Estimated Tax Payment,357
+773,866,Additional Payment,4527
+774,512,State Tax Payment,8183
+775,537,Quarterly Tax Payment,1375
+776,259,Estimated Tax Payment,3258
+777,927,Estimated Tax Payment,8511
+778,294,Local Tax Payment,4185
+779,129,Prepayment,7993
+780,183,Withholding,5870
+781,382,Installment Payment,2762
+782,515,Self-Employment Tax Payment,1414
+783,915,Estimated Penalty Payment,4733
+784,624,Annual Tax Payment,5344
+785,662,Property Tax Payment,605
+786,737,Annual Tax Payment,5883
+787,624,Additional Payment,3270
+788,428,Property Tax Payment,8102
+789,714,Installment Payment,8403
+790,667,Estimated Penalty Payment,7531
+791,572,Self-Employment Tax Payment,3305
+792,196,Annual Tax Payment,8665
+793,616,Quarterly Tax Payment,9246
+794,859,Penalty Payment,4421
+795,518,Penalty Payment,5788
+796,438,Additional Payment,7140
+797,848,Income Tax Payment,5070
+798,144,Property Tax Payment,9923
+799,43,Quarterly Tax Payment,3955
+800,193,Annual Tax Payment,9252
+801,774,Quarterly Tax Payment,9572
+802,916,Additional Payment,972
+803,720,Estimated Penalty Payment,6604
+804,543,Quarterly Tax Payment,9225
+805,140,Additional Payment,3844
+806,354,Annual Tax Payment,1123
+807,662,Estimated Tax Payment,2763
+808,203,Withholding,4990
+809,190,Property Tax Payment,1254
+810,784,Self-Employment Tax Payment,1459
+811,21,Estimated Tax Payment,1445
+812,88,Annual Tax Payment,4589
+813,960,Annual Tax Payment,1319
+814,623,Estimated Tax Payment,7911
+815,523,Annual Tax Payment,4363
+816,540,Income Tax Payment,8635
+817,73,Self-Employment Tax Payment,5253
+818,46,Penalty Payment,6918
+819,179,Self-Employment Tax Payment,9591
+820,159,Final Settlement,9738
+821,936,Withholding,7588
+822,994,Income Tax Payment,5994
+823,423,Final Settlement,3200
+824,199,State Tax Payment,2020
+825,58,Local Tax Payment,5371
+826,661,Estimated Tax Payment,8082
+827,168,State Tax Payment,1590
+828,708,Additional Payment,476
+829,492,Withholding,9408
+830,401,State Tax Payment,7069
+831,634,Estimated Penalty Payment,4771
+832,887,Additional Payment,9859
+833,911,Self-Employment Tax Payment,9978
+834,940,State Tax Payment,5446
+835,112,Additional Payment,2823
+836,671,Withholding,4149
+837,578,Installment Payment,9104
+838,58,Additional Payment,8456
+839,523,Additional Payment,9071
+840,179,Annual Tax Payment,5227
+841,548,Quarterly Tax Payment,3518
+842,642,Quarterly Tax Payment,6218
+843,983,Penalty Payment,3183
+844,438,Withholding,1393
+845,522,Income Tax Payment,9809
+846,775,Self-Employment Tax Payment,9240
+847,239,Installment Payment,2754
+848,956,Prepayment,5207
+849,774,Additional Payment,4184
+850,613,Prepayment,7888
+851,123,Final Settlement,7821
+852,578,Penalty Payment,9755
+853,627,Estimated Tax Payment,4744
+854,857,Income Tax Payment,9047
+855,542,Estimated Tax Payment,5714
+856,773,Final Settlement,2567
+857,931,Penalty Payment,7306
+858,107,Estimated Penalty Payment,8879
+859,604,Withholding,5074
+860,969,Property Tax Payment,5524
+861,511,Property Tax Payment,9531
+862,972,Income Tax Payment,9427
+863,771,Annual Tax Payment,8310
+864,554,Installment Payment,2729
+865,271,Additional Payment,6038
+866,361,Property Tax Payment,3577
+867,141,Prepayment,4190
+868,962,Installment Payment,2628
+869,607,Estimated Penalty Payment,7001
+870,327,Quarterly Tax Payment,7639
+871,605,Self-Employment Tax Payment,2634
+872,606,Installment Payment,8913
+873,681,Annual Tax Payment,6614
+874,966,Self-Employment Tax Payment,8047
+875,339,Annual Tax Payment,1752
+876,471,Final Settlement,2961
+877,585,Estimated Tax Payment,2851
+878,426,Final Settlement,6668
+879,323,State Tax Payment,6034
+880,140,Self-Employment Tax Payment,2583
+881,437,Local Tax Payment,64
+882,215,Income Tax Payment,1371
+883,227,Self-Employment Tax Payment,2631
+884,389,Final Settlement,8583
+885,996,Estimated Tax Payment,4483
+886,89,Estimated Penalty Payment,711
+887,366,Estimated Penalty Payment,7875
+888,122,State Tax Payment,3440
+889,113,Final Settlement,9562
+890,596,Quarterly Tax Payment,3721
+891,72,Installment Payment,7671
+892,340,Income Tax Payment,8375
+893,812,State Tax Payment,9263
+894,752,Quarterly Tax Payment,829
+895,85,Property Tax Payment,9917
+896,634,Penalty Payment,6612
+897,278,Estimated Tax Payment,7192
+898,246,Annual Tax Payment,2087
+899,979,Estimated Penalty Payment,218
+900,678,Estimated Penalty Payment,9552
+901,810,Final Settlement,5602
+902,519,Withholding,3342
+903,772,Final Settlement,1347
+904,992,Income Tax Payment,6724
+905,139,Quarterly Tax Payment,1782
+906,408,Local Tax Payment,5769
+907,6,State Tax Payment,479
+908,13,Withholding,8762
+909,887,Annual Tax Payment,1612
+910,504,Local Tax Payment,7929
+911,810,Income Tax Payment,3216
+912,497,Prepayment,9642
+913,19,Withholding,6581
+914,780,Quarterly Tax Payment,4598
+915,585,Installment Payment,5376
+916,416,Installment Payment,7719
+917,200,Prepayment,4556
+918,842,Estimated Penalty Payment,8743
+919,604,Property Tax Payment,5175
+920,88,State Tax Payment,4115
+921,859,Additional Payment,7088
+922,63,Annual Tax Payment,1255
+923,628,Self-Employment Tax Payment,6345
+924,444,Local Tax Payment,6295
+925,834,Annual Tax Payment,398
+926,407,Installment Payment,8566
+927,368,Final Settlement,2091
+928,223,Estimated Penalty Payment,6269
+929,939,Income Tax Payment,4351
+930,534,Installment Payment,6552
+931,468,Quarterly Tax Payment,6213
+932,769,Quarterly Tax Payment,7978
+933,427,Income Tax Payment,9511
+934,192,Annual Tax Payment,3820
+935,64,Income Tax Payment,4218
+936,972,Local Tax Payment,8527
+937,607,Property Tax Payment,8911
+938,221,Income Tax Payment,5766
+939,959,Prepayment,8610
+940,596,Estimated Penalty Payment,2395
+941,28,Estimated Penalty Payment,8849
+942,166,Estimated Penalty Payment,3524
+943,81,Prepayment,4848
+944,761,Income Tax Payment,2304
+945,235,Installment Payment,9633
+946,510,Annual Tax Payment,4351
+947,162,Local Tax Payment,1829
+948,112,Additional Payment,1604
+949,560,Installment Payment,1717
+950,296,Prepayment,7708
+951,356,Income Tax Payment,675
+952,681,Annual Tax Payment,988
+953,710,Income Tax Payment,8893
+954,155,Property Tax Payment,9122
+955,84,Penalty Payment,1871
+956,837,Local Tax Payment,9441
+957,536,Penalty Payment,8079
+958,692,Local Tax Payment,1288
+959,353,Annual Tax Payment,8528
+960,120,Property Tax Payment,9356
+961,845,Local Tax Payment,3872
+962,974,Installment Payment,6495
+963,219,Installment Payment,4858
+964,982,Additional Payment,8242
+965,335,Estimated Tax Payment,2158
+966,500,Income Tax Payment,6341
+967,668,Self-Employment Tax Payment,1176
+968,815,Withholding,2467
+969,863,Property Tax Payment,9599
+970,643,Withholding,5143
+971,297,Property Tax Payment,4935
+972,510,Local Tax Payment,3310
+973,617,Income Tax Payment,6159
+974,345,Income Tax Payment,8034
+975,757,Withholding,9204
+976,409,Penalty Payment,2195
+977,947,Local Tax Payment,3057
+978,560,Installment Payment,3528
+979,190,Self-Employment Tax Payment,953
+980,556,Prepayment,8964
+981,362,Quarterly Tax Payment,7676
+982,339,Estimated Penalty Payment,3695
+983,844,Additional Payment,3223
+984,981,Additional Payment,2449
+985,190,Withholding,1956
+986,493,Withholding,9521
+987,409,Estimated Penalty Payment,1269
+988,429,Income Tax Payment,5569
+989,991,State Tax Payment,941
+990,450,Local Tax Payment,4247
+991,961,Self-Employment Tax Payment,7780
+992,62,Additional Payment,9414
+993,991,Estimated Tax Payment,8112
+994,445,Local Tax Payment,464
+995,151,State Tax Payment,7955
+996,489,Prepayment,2191
+997,678,Self-Employment Tax Payment,6054
+998,546,Additional Payment,505
+999,803,State Tax Payment,1700
+1000,665,Local Tax Payment,5608

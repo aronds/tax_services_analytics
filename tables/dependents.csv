@@ -1,0 +1,501 @@
+taxpayer_id,dependent_id,first_name,last_name,ssn,relationship,qualifies_for_credit
+818,1,Justin,Mcintyre,223-49-8536,Grandparent,False
+51,2,John,Khan,460-92-3882,Relative,False
+100,3,Julie,Solis,212-65-4418,Parent,False
+977,4,Shawn,Collins,148-36-7155,Relative,True
+47,5,Kristi,Wall,189-29-7550,Stepchild,False
+990,6,Jennifer,Brown,844-45-4144,Relative,False
+437,7,Gail,Moran,154-77-6634,Other,True
+789,8,John,Campbell,052-94-7651,Grandchild,True
+812,9,Dalton,Sanders,531-18-8359,Stepchild,True
+593,10,Alicia,Andrews,229-12-3450,Child,False
+849,11,Michael,Miles,316-69-4752,Grandparent,False
+784,12,Linda,Martinez,884-67-6019,Sibling,True
+232,13,Timothy,Gentry,366-86-3098,Stepchild,False
+523,14,Tammy,Shepherd,786-59-8942,Child,False
+781,15,Tiffany,Doyle,471-38-4882,Other,False
+771,16,Rebecca,Bradshaw,710-04-5092,Dependent Relative,True
+417,17,David,Freeman,474-39-1388,Parent,False
+607,18,Scott,Smith,484-77-0373,Parent,True
+170,19,Rebekah,Smith,083-96-4571,Dependent Relative,False
+776,20,James,Murphy,758-62-7465,Stepchild,False
+590,21,Natalie,Peterson,167-57-8380,Relative,False
+867,22,Kristin,Jones,114-15-3792,Child,True
+624,23,Matthew,Salazar,388-74-4780,Grandparent,True
+523,24,Alexandra,Weaver,631-16-3040,Grandparent,False
+392,25,Eduardo,Small,510-01-3341,Grandchild,True
+196,26,Melanie,Allen,489-78-7624,Dependent Relative,False
+691,27,Cindy,Mcdonald,770-27-4797,Dependent Relative,False
+707,28,David,Smith,358-19-6756,Relative,False
+21,29,Michael,Estrada,565-67-5817,Child,False
+713,30,Cheryl,Miller,893-76-8932,Foster Child,True
+786,31,Sydney,Watson,503-35-3548,Grandparent,False
+661,32,Ernest,Doyle,559-37-1792,Spouse,False
+423,33,Peter,Lowe,403-99-4050,Grandparent,True
+124,34,Dylan,Espinoza,148-93-3433,Other,True
+565,35,Matthew,Murphy,292-71-0959,Parent,True
+471,36,Mindy,English,271-25-2081,Child,True
+73,37,Andrew,Benjamin,692-82-0646,Grandparent,False
+258,38,Michael,Haney,277-51-5975,Grandchild,True
+688,39,Michael,Davis,876-04-3150,Dependent Relative,True
+869,40,Mark,Figueroa,181-29-9505,Sibling,False
+937,41,Katherine,Poole,218-52-9093,Spouse,True
+396,42,Amanda,Shelton,593-99-9159,Child,True
+865,43,Angel,Landry,322-44-6549,Dependent Relative,False
+42,44,Heather,Rogers,798-68-4253,Parent,False
+558,45,Regina,Kramer,529-12-0266,Stepchild,False
+186,46,Jennifer,Wallace,065-74-4393,Grandchild,True
+650,47,Brian,Valdez,260-01-2214,Stepchild,True
+983,48,Joseph,Valencia,231-13-2331,Grandparent,False
+99,49,Henry,Gordon,468-73-3822,Foster Child,False
+19,50,James,Garcia,112-12-3196,Spouse,False
+768,51,James,Ortega,516-95-1989,Other,True
+692,52,Caroline,Wagner,715-06-5431,Child,True
+100,53,Stephen,Matthews,177-17-1513,Child,False
+217,54,James,Rodriguez,754-16-6162,Spouse,False
+36,55,Theresa,Lee,899-70-9456,Parent,False
+547,56,Marilyn,Martin,857-89-8228,Foster Child,False
+155,57,Mary,Walker,847-50-9790,Foster Child,True
+201,58,Eugene,Simpson,273-84-8939,Other,False
+244,59,Lucas,Finley,875-59-9777,Grandparent,True
+552,60,Andrew,Mitchell,861-96-0307,Parent,False
+305,61,Sandra,Mercado,531-84-7615,Parent,False
+805,62,Kristy,Smith,802-75-0205,Relative,False
+715,63,Michael,Smith,757-97-5747,Grandchild,False
+322,64,Richard,Simmons,445-16-4489,Grandchild,True
+333,65,Donald,Osborne,631-29-5754,Grandchild,False
+878,66,Russell,Rodriguez,231-06-7210,Relative,False
+783,67,Derek,Caldwell,427-18-4078,Other,True
+489,68,Joshua,Galloway,045-77-4794,Stepchild,True
+870,69,Kyle,Lyons,033-88-2785,Spouse,False
+237,70,Diane,Barker,155-76-7077,Relative,False
+945,71,Brandon,Stephens,525-25-1859,Child,True
+777,72,Charles,Rodriguez,812-39-1623,Parent,True
+550,73,Dalton,Miller,343-07-2331,Relative,True
+257,74,Christian,Sanchez,610-79-8124,Stepchild,True
+608,75,Cheryl,Anderson,267-16-0444,Stepchild,True
+189,76,Marcus,Guzman,482-26-5633,Stepchild,True
+99,77,Shelby,Martinez,453-68-6449,Grandchild,False
+593,78,Michael,Huffman,294-37-4892,Parent,False
+972,79,Sarah,Robinson,484-75-9260,Spouse,False
+853,80,Natalie,Lawrence,367-14-5590,Child,True
+602,81,Bradley,Golden,654-03-2497,Other,True
+820,82,Manuel,Wood,296-31-8834,Relative,False
+302,83,Kenneth,Stuart,255-66-9702,Sibling,True
+217,84,Kyle,Keller,540-52-1856,Child,True
+895,85,Brandon,Stevens,255-44-9717,Grandchild,True
+249,86,Susan,Le,755-87-1836,Dependent Relative,False
+70,87,Dana,Gonzalez,600-78-1738,Grandparent,False
+761,88,Taylor,Dyer,224-88-0263,Parent,True
+810,89,Reginald,Peterson,405-38-8804,Parent,True
+98,90,Edward,Davidson,745-69-6002,Foster Child,False
+558,91,Cindy,Hernandez,844-94-7656,Stepchild,False
+179,92,Theresa,Peters,016-72-1770,Grandchild,True
+63,93,Leslie,Walters,083-85-9792,Grandparent,False
+11,94,Kimberly,Contreras,522-40-6671,Grandparent,True
+489,95,Karina,Frank,063-83-2749,Child,True
+990,96,Elizabeth,Peters,529-61-0028,Other,False
+176,97,James,Tucker,888-50-8051,Foster Child,True
+315,98,Michelle,Salinas,357-50-7070,Child,True
+816,99,Amber,Johnson,706-93-8343,Foster Child,True
+550,100,Richard,Soto,552-36-6110,Stepchild,True
+181,101,Michael,Barnes,479-42-3714,Grandparent,False
+689,102,Matthew,Gaines,352-59-2182,Foster Child,False
+708,103,John,Thomas,629-49-9262,Grandparent,False
+470,104,Jerome,Smith,335-16-0748,Stepchild,True
+603,105,Angela,Powell,690-77-0645,Other,True
+788,106,Michael,Sanchez,258-54-8468,Stepchild,False
+988,107,Tracy,Weeks,279-31-2112,Relative,True
+447,108,Robert,Perez,774-96-8868,Sibling,False
+835,109,Mark,Mahoney,601-55-0466,Child,False
+101,110,Kimberly,Green,349-86-4058,Spouse,False
+331,111,Bryan,Orr,376-26-0163,Parent,False
+639,112,Sara,Dunlap,818-87-5032,Child,False
+836,113,Jodi,Lewis,689-83-7436,Foster Child,False
+856,114,Todd,Campbell,756-96-2102,Spouse,True
+362,115,Megan,Travis,122-19-1434,Relative,False
+830,116,Zachary,Robertson,733-99-1478,Other,True
+272,117,Kenneth,Gutierrez,859-16-4733,Grandparent,False
+953,118,Emily,Harris,046-24-6269,Stepchild,True
+24,119,Kaitlin,Morgan,418-69-0902,Parent,False
+335,120,Crystal,Davis,341-45-7154,Child,False
+87,121,Brendan,Lopez,110-26-1827,Dependent Relative,True
+482,122,Jennifer,Williams,467-98-8709,Grandchild,True
+696,123,Kayla,Bradford,120-39-3588,Child,True
+630,124,Jeremy,Blake,082-28-6362,Child,True
+236,125,Frederick,Bartlett,406-04-7363,Other,False
+601,126,Christopher,Frazier,373-14-2373,Sibling,False
+91,127,Ronald,Frey,014-61-4477,Stepchild,False
+712,128,Sharon,Grant,323-17-5445,Grandparent,False
+783,129,Phillip,Bennett,240-25-2688,Sibling,True
+671,130,Sandy,Carroll,679-59-4090,Grandparent,False
+136,131,Mark,Robertson,296-98-3608,Child,False
+331,132,Barbara,Fields,768-02-7097,Relative,False
+132,133,Juan,Rogers,385-93-1941,Child,False
+326,134,Shelby,Collins,185-78-3193,Relative,False
+811,135,Nicole,Malone,049-52-3597,Foster Child,False
+832,136,Angela,Owens,178-36-3202,Dependent Relative,False
+78,137,Alex,Mccormick,177-71-1580,Foster Child,True
+280,138,Michael,George,707-15-3116,Stepchild,True
+115,139,Tracy,Padilla,161-59-7100,Child,False
+549,140,Jason,Moore,221-43-8026,Grandparent,True
+938,141,Tony,Livingston,122-18-7138,Relative,False
+951,142,Samantha,Harrington,746-97-7815,Spouse,False
+924,143,Eric,Flowers,012-54-3214,Other,False
+470,144,Jean,Vega,874-94-1981,Stepchild,False
+724,145,Andrew,Burke,271-34-1892,Relative,True
+860,146,Brandon,Hensley,493-09-1269,Grandparent,True
+904,147,Amy,Evans,426-88-5206,Child,True
+306,148,Linda,Waters,095-72-4438,Spouse,False
+304,149,Jonathan,Moreno,720-04-1032,Grandparent,False
+110,150,Anna,Gross,562-93-6432,Grandchild,False
+657,151,Christopher,Obrien,074-92-8057,Spouse,False
+981,152,Roy,Gordon,230-60-6309,Parent,True
+84,153,Randy,Miller,532-92-3856,Dependent Relative,True
+50,154,Cheryl,Perez,589-01-4216,Spouse,False
+835,155,Jesse,Ramirez,471-37-8616,Other,False
+954,156,Anna,Flores,019-96-5433,Grandchild,True
+401,157,Bruce,Christensen,705-74-7373,Grandchild,True
+501,158,Daniel,Galvan,789-51-6858,Grandparent,False
+47,159,Desiree,Holloway,887-89-7203,Parent,False
+133,160,Annette,Sparks,023-58-2746,Relative,True
+789,161,Alex,Mclaughlin,140-85-2678,Foster Child,False
+925,162,Monica,Lowe,491-96-0682,Dependent Relative,True
+937,163,Kristy,Lawson,323-38-9124,Foster Child,False
+572,164,Derrick,Nelson,489-85-8491,Relative,True
+372,165,Donna,Simmons,169-95-4117,Child,False
+229,166,Pamela,Smith,319-61-5638,Grandchild,False
+522,167,Gina,Liu,350-22-8820,Other,False
+253,168,Seth,Anderson,040-40-5508,Child,False
+428,169,Brianna,Wilkinson,335-54-8945,Other,True
+868,170,Paula,Evans,140-74-4595,Child,True
+965,171,Lisa,Williams,341-05-7886,Stepchild,True
+211,172,Holly,Dorsey,572-12-8267,Relative,True
+769,173,Brenda,Jenkins,384-75-2777,Other,False
+878,174,Molly,Mendoza,359-23-7176,Dependent Relative,True
+698,175,Johnny,Riley,858-16-3176,Spouse,True
+641,176,Cathy,Henderson,367-92-2261,Grandparent,True
+515,177,Christopher,Martin,380-70-6904,Dependent Relative,True
+111,178,Claudia,Brooks,517-16-6882,Dependent Relative,False
+620,179,Tracie,Mcdowell,490-87-5478,Other,False
+627,180,Mary,Brown,501-29-5879,Other,False
+823,181,Cindy,Adkins,580-86-3545,Child,True
+726,182,Laura,Gardner,397-58-3677,Sibling,False
+589,183,Peter,Soto,552-72-1668,Dependent Relative,False
+760,184,Ashley,Rice,350-97-6010,Relative,True
+401,185,Emily,Juarez,332-13-2634,Relative,False
+287,186,Emily,Cannon,125-40-8878,Grandchild,False
+512,187,Cynthia,Harrison,321-06-1420,Grandparent,False
+562,188,Mark,Benton,099-34-4883,Relative,False
+418,189,Daniel,Owens,569-85-6371,Grandchild,False
+733,190,Nicholas,Lewis,215-82-3127,Grandchild,False
+590,191,Sarah,Oconnell,578-09-7423,Foster Child,False
+99,192,Janice,Lewis,210-61-7890,Foster Child,False
+521,193,Jason,Bolton,771-65-0865,Stepchild,True
+220,194,Angel,Richard,176-69-4004,Dependent Relative,True
+984,195,Nathan,Baker,740-93-6996,Grandparent,True
+405,196,Natalie,Henry,591-13-0953,Sibling,True
+879,197,Keith,Ford,633-70-5716,Sibling,False
+525,198,Michael,Valdez,314-65-6483,Sibling,True
+879,199,Abigail,Rodriguez,780-23-9428,Dependent Relative,True
+159,200,Kyle,Norris,525-69-7020,Other,True
+366,201,Jason,Martinez,742-05-9248,Child,False
+658,202,Jennifer,Anderson,121-26-9818,Spouse,False
+111,203,Brian,Morgan,813-78-9189,Spouse,False
+19,204,Henry,Carpenter,838-99-3668,Child,False
+63,205,Dawn,Allen,082-77-6422,Child,False
+910,206,Jesus,Martin,189-11-0459,Sibling,False
+796,207,Robert,Todd,352-43-0911,Relative,False
+310,208,Ryan,Hernandez,776-64-8149,Grandchild,True
+818,209,Jessica,Tyler,339-71-8272,Child,True
+169,210,Chelsea,Wright,090-52-9343,Relative,True
+535,211,Jessica,Boyer,060-64-6514,Other,False
+112,212,Mary,Morales,211-78-7728,Parent,False
+787,213,Katie,Hall,660-94-1040,Parent,False
+371,214,Jessica,Alexander,533-41-1924,Other,False
+481,215,Laura,Barry,695-86-2704,Spouse,True
+439,216,Heather,Snyder,367-02-4377,Other,True
+779,217,Michael,Gonzalez,567-62-5285,Grandchild,False
+856,218,Justin,Weaver,073-88-6277,Grandchild,True
+828,219,Richard,Smith,604-25-9270,Foster Child,False
+150,220,Jeremy,Melton,137-34-5668,Grandparent,False
+195,221,Nicole,Henderson,659-12-0917,Stepchild,False
+752,222,Kaitlin,Avila,412-65-4438,Child,True
+97,223,Angela,Jackson,029-27-1876,Sibling,False
+631,224,Peter,Anderson,192-38-9332,Grandparent,False
+609,225,Duane,Holmes,779-17-3894,Other,True
+998,226,Jeffrey,Clark,344-36-6386,Spouse,False
+835,227,James,Hernandez,384-01-9210,Parent,True
+414,228,Chloe,Mendoza,564-36-0298,Grandchild,True
+490,229,Austin,Patel,419-53-3441,Relative,True
+666,230,Jillian,Norris,760-33-0955,Parent,True
+594,231,Anthony,Fisher,616-84-4063,Spouse,False
+31,232,Cassandra,Boyd,741-78-1689,Foster Child,True
+38,233,Kristie,Johnson,771-13-4455,Grandchild,False
+810,234,Erin,Medina,156-20-0589,Stepchild,True
+666,235,David,Lewis,641-72-2664,Sibling,True
+292,236,Juan,Kane,403-86-0082,Child,True
+861,237,Brandy,Campbell,267-72-7440,Foster Child,True
+793,238,Jesus,Moore,630-01-4122,Parent,True
+60,239,Katherine,Thomas,742-56-6997,Other,False
+521,240,Kristina,Maldonado,819-31-0891,Dependent Relative,True
+619,241,Jessica,Manning,570-27-5970,Foster Child,False
+11,242,Joshua,Winters,764-79-9755,Child,True
+215,243,James,Watson,285-55-0395,Grandchild,False
+327,244,Lucas,Sherman,201-07-9918,Relative,True
+303,245,Michael,Jones,054-21-4190,Foster Child,True
+773,246,John,Pierce,079-17-6486,Dependent Relative,False
+646,247,Linda,Fischer,452-18-7808,Relative,False
+457,248,Brandy,Fuller,416-93-2920,Stepchild,True
+487,249,John,Wolf,614-91-3248,Relative,False
+594,250,Abigail,Coleman,365-93-6041,Parent,True
+276,251,Sara,Valencia,548-84-3254,Stepchild,False
+329,252,Marisa,Moore,723-33-8278,Sibling,True
+332,253,Anthony,Torres,156-06-6535,Other,False
+539,254,Shannon,Smith,226-85-2892,Parent,False
+425,255,Rachel,Anderson,342-48-9089,Grandchild,True
+430,256,Jennifer,Brown,629-70-3242,Parent,False
+882,257,Tyler,Brown,073-40-0966,Relative,True
+818,258,Justin,Hunt,645-33-1656,Relative,True
+984,259,Kevin,Greer,267-16-9940,Relative,False
+662,260,Paul,Tran,426-21-4264,Spouse,True
+199,261,Jesus,Silva,283-91-9406,Sibling,True
+23,262,Christine,Mendez,532-42-6630,Foster Child,True
+231,263,Stephen,Ayala,767-34-4661,Grandparent,False
+187,264,Jennifer,Montes,200-08-6784,Child,False
+572,265,Alan,Forbes,773-61-7238,Grandparent,False
+469,266,Michael,Williams,596-76-5688,Spouse,True
+380,267,Anthony,Moore,215-65-0967,Stepchild,True
+140,268,Matthew,Medina,076-31-0313,Other,True
+279,269,Rachel,Oliver,018-65-2637,Grandchild,False
+413,270,Jesse,Moore,026-12-7177,Sibling,False
+844,271,Marcus,Munoz,640-49-4303,Grandchild,True
+920,272,Adrian,Jacobs,589-68-7667,Sibling,True
+349,273,Marcus,Walters,389-92-0448,Dependent Relative,False
+989,274,Patricia,Ford,021-25-0247,Sibling,False
+177,275,Matthew,Moore,393-60-1978,Foster Child,False
+783,276,Luke,Martin,231-19-6806,Sibling,True
+373,277,Nicole,Smith,888-72-0526,Spouse,False
+172,278,David,Nguyen,783-53-5789,Spouse,False
+480,279,Jennifer,Cruz,792-61-8786,Parent,True
+83,280,Barbara,Johnson,150-53-8501,Stepchild,True
+752,281,Jordan,Jones,034-98-0721,Stepchild,True
+606,282,Thomas,Martinez,235-25-4605,Child,False
+19,283,Henry,Phillips,173-54-7539,Grandparent,False
+717,284,Lawrence,Howell,450-31-3119,Dependent Relative,True
+558,285,Michael,Alvarez,042-03-2899,Grandparent,True
+877,286,Tiffany,Kline,413-24-2039,Sibling,True
+182,287,Christopher,Vaughan,169-49-6098,Grandchild,False
+807,288,Austin,Sanchez,887-20-6934,Sibling,False
+884,289,Neil,Schmidt,770-31-5255,Parent,True
+46,290,Eric,Rangel,534-01-3599,Dependent Relative,True
+780,291,Susan,Acosta,699-12-3569,Foster Child,False
+205,292,Jacob,Frye,424-03-1487,Dependent Relative,True
+223,293,Jenna,Reeves,105-45-6830,Child,False
+610,294,Jessica,Douglas,876-80-6589,Parent,True
+883,295,Luis,Wolfe,726-46-2940,Grandchild,True
+736,296,Nicole,Lane,003-37-6344,Grandparent,True
+278,297,Renee,Patel,837-38-0900,Grandparent,True
+190,298,Karen,Long,774-59-0785,Relative,False
+300,299,Tommy,Bell,734-51-0738,Spouse,False
+160,300,Krystal,Barnes,565-45-0167,Child,True
+740,301,Shannon,Barrera,495-17-2645,Child,True
+793,302,Gina,Jones,733-30-8843,Child,True
+635,303,Rachel,Hayes,608-77-7697,Spouse,False
+588,304,Tiffany,Cole,325-81-1417,Child,True
+92,305,Nicholas,Burke,576-36-5807,Relative,True
+517,306,Timothy,Smith,601-40-6414,Parent,True
+708,307,David,Lewis,631-07-4737,Spouse,False
+823,308,Travis,Kelly,874-53-6828,Foster Child,True
+461,309,Erin,Spencer,460-83-7980,Grandparent,True
+890,310,James,Koch,475-23-3283,Grandparent,False
+380,311,Jeffrey,Morgan,283-81-0123,Other,False
+968,312,Elizabeth,Cowan,298-07-9818,Parent,True
+870,313,Chad,Rodriguez,719-19-9565,Child,False
+281,314,Jacqueline,Murray,442-10-9364,Foster Child,True
+985,315,Timothy,Reyes,557-71-0015,Stepchild,True
+195,316,Sean,Smith,652-33-4956,Dependent Relative,True
+292,317,Alexandra,Gomez,667-25-7857,Relative,False
+960,318,Lindsay,Bennett,657-08-7629,Relative,True
+882,319,Lisa,Freeman,819-83-3916,Dependent Relative,True
+447,320,James,Leonard,656-29-5149,Parent,True
+189,321,Jason,Cisneros,855-80-1031,Foster Child,True
+409,322,Mitchell,Campbell,845-37-9446,Child,True
+920,323,Katherine,Henson,280-06-7728,Dependent Relative,False
+237,324,Mario,Young,825-77-7971,Parent,False
+160,325,Bryan,Payne,891-49-7256,Stepchild,False
+163,326,Joseph,Tanner,559-21-2031,Foster Child,False
+966,327,Jennifer,Campbell,758-62-6499,Stepchild,True
+47,328,Kristen,Hardy,003-99-4826,Child,True
+148,329,Karen,Nelson,169-31-8575,Parent,True
+105,330,Michael,Mathews,555-43-3175,Relative,True
+578,331,Craig,Erickson,842-20-1880,Relative,False
+79,332,Zachary,Ballard,246-95-1539,Relative,False
+744,333,Julia,Dominguez,480-96-2947,Spouse,False
+941,334,Megan,Pratt,719-32-2277,Dependent Relative,True
+788,335,Ronnie,Barnes,348-08-8298,Grandchild,False
+581,336,Nicholas,Anderson,511-79-9029,Stepchild,True
+271,337,Hunter,Leonard,231-17-0340,Grandparent,False
+933,338,Kendra,Walker,240-06-1086,Stepchild,False
+382,339,Richard,Henry,482-19-4862,Relative,True
+347,340,Traci,Frank,574-89-7724,Foster Child,False
+643,341,John,Simmons,250-98-5555,Grandchild,False
+706,342,Matthew,Gamble,688-14-0898,Stepchild,True
+263,343,Jeremiah,Williams,644-54-7787,Spouse,False
+301,344,Mitchell,Stewart,327-28-2874,Stepchild,False
+212,345,Willie,Bryant,365-12-6155,Dependent Relative,True
+884,346,Tara,Hanson,023-62-7843,Relative,False
+751,347,Natalie,Hart,158-09-5498,Dependent Relative,False
+628,348,Stanley,Barber,770-34-9895,Grandchild,True
+388,349,James,Christian,864-19-7850,Parent,False
+438,350,Thomas,Shaw,879-58-5498,Parent,True
+984,351,Hannah,Clark,899-38-0503,Parent,True
+614,352,Justin,Miles,772-82-0408,Parent,False
+112,353,Jessica,Perry,384-98-5726,Spouse,False
+858,354,Brandi,Shepherd,562-86-9541,Dependent Relative,False
+190,355,Melissa,Jackson,328-81-3713,Sibling,False
+705,356,Richard,Huff,040-67-1583,Parent,False
+949,357,Sara,Webb,505-50-5363,Stepchild,True
+586,358,Adam,Jones,610-88-0759,Child,True
+626,359,Michael,Griffith,583-07-0561,Spouse,True
+583,360,Diane,Ponce,105-91-8249,Spouse,False
+680,361,Cameron,Lucas,275-09-0762,Spouse,True
+394,362,Anna,Hooper,184-73-8145,Parent,False
+274,363,David,Taylor,501-57-1537,Sibling,True
+798,364,Lori,Martinez,812-75-3770,Parent,False
+92,365,Dawn,Griffin,247-01-7145,Child,False
+851,366,Matthew,Payne,624-33-8760,Foster Child,True
+849,367,Jason,Guzman,883-63-2065,Stepchild,False
+509,368,Diana,Phillips,842-43-6570,Relative,False
+133,369,Jade,Humphrey,609-30-9288,Foster Child,True
+924,370,Vernon,Martinez,152-05-2192,Relative,True
+831,371,Christina,Tran,080-72-4749,Relative,True
+236,372,Amber,Miller,590-97-2994,Dependent Relative,True
+422,373,Marc,Werner,312-15-9911,Spouse,False
+830,374,Heather,Hernandez,290-46-5604,Sibling,True
+125,375,Brian,Nunez,790-29-9218,Relative,False
+315,376,Alejandra,Small,386-46-2727,Other,False
+85,377,Paul,Estes,776-19-7281,Relative,True
+552,378,Heather,Kim,215-98-4893,Foster Child,True
+542,379,Jennifer,Moran,259-89-6706,Parent,False
+73,380,Kristi,Love,141-91-2284,Parent,False
+618,381,Cassandra,Blair,325-91-1710,Relative,False
+809,382,David,Evans,424-65-7800,Other,True
+983,383,Robert,Adams,601-04-9708,Parent,False
+574,384,Sherry,Smith,259-79-2095,Spouse,False
+672,385,Ashley,Hall,629-53-1192,Dependent Relative,True
+183,386,Albert,York,479-35-2705,Grandchild,False
+453,387,Jacob,Wilcox,213-46-7173,Grandparent,True
+67,388,Alexandra,Russell,043-53-1153,Stepchild,False
+600,389,Rodney,Foster,748-85-9694,Grandparent,False
+509,390,Rachel,Combs,570-79-7660,Sibling,False
+118,391,Nicholas,Lopez,211-93-2306,Parent,True
+357,392,Regina,Schwartz,289-78-7753,Grandparent,False
+378,393,David,Walker,859-06-1215,Grandparent,False
+709,394,Samantha,Brooks,479-20-5181,Foster Child,True
+421,395,Stephen,Patel,890-69-7125,Parent,False
+505,396,Lydia,Braun,889-12-7204,Stepchild,False
+882,397,Sarah,Knapp,708-73-5669,Grandparent,False
+361,398,Joe,Bradshaw,209-94-3682,Sibling,True
+276,399,Amy,Lewis,150-57-9469,Relative,False
+174,400,Mark,Murphy,023-72-5698,Other,False
+244,401,Robert,Davis,013-27-4182,Grandchild,False
+889,402,Rebecca,Griffin,258-07-5665,Sibling,False
+514,403,Sharon,Green,375-17-0381,Foster Child,True
+184,404,Zachary,Anderson,338-54-7974,Grandchild,True
+584,405,Samantha,Williams,084-99-8994,Sibling,True
+989,406,Miguel,Cannon,261-10-1648,Sibling,False
+931,407,Rachel,Holt,878-69-9824,Other,False
+269,408,Benjamin,Austin,604-25-3577,Other,True
+474,409,Judy,Zuniga,057-76-1596,Parent,False
+732,410,Anthony,Wright,216-65-7740,Sibling,True
+22,411,Jacob,Strickland,875-17-9449,Other,False
+359,412,Charles,Cameron,140-08-5749,Spouse,True
+583,413,Stephanie,Nelson,149-54-1448,Sibling,True
+11,414,Charles,Thompson,789-53-2815,Foster Child,False
+623,415,Kathleen,Jackson,251-17-1941,Stepchild,False
+308,416,Julie,Matthews,814-94-9911,Foster Child,False
+591,417,Richard,Liu,550-66-1415,Parent,False
+173,418,Brian,Ellis,354-60-9797,Child,True
+805,419,Valerie,King,217-83-0985,Relative,True
+48,420,Eric,Wallace,701-79-5203,Foster Child,True
+687,421,Darlene,Edwards,403-85-9342,Stepchild,False
+155,422,Richard,Reynolds,222-99-7923,Grandchild,True
+937,423,Juan,Rivera,574-92-3868,Child,False
+308,424,Patricia,Campbell,708-63-4936,Grandchild,True
+918,425,Todd,Rivera,711-76-6439,Grandchild,True
+512,426,Anthony,Floyd,206-83-8415,Other,True
+126,427,Amy,Berg,820-35-8935,Other,True
+676,428,Janet,Johnson,097-14-0404,Dependent Relative,True
+734,429,Daniel,Tyler,148-88-9001,Grandchild,False
+394,430,Tiffany,Baker,869-05-4375,Spouse,True
+537,431,Angela,Neal,545-41-8845,Grandchild,False
+821,432,Katelyn,Brooks,452-51-8288,Child,False
+583,433,Kevin,Rodriguez,157-07-8494,Relative,True
+812,434,Larry,Clark,556-57-3976,Other,True
+235,435,Jenny,Strickland,264-92-6316,Parent,False
+342,436,Tyrone,Smith,548-91-7696,Grandchild,False
+597,437,Stephanie,Watson,362-60-5284,Grandchild,False
+18,438,Sean,Carrillo,494-62-7978,Relative,True
+62,439,Sarah,Marshall,702-07-5889,Sibling,False
+659,440,Elizabeth,Cain,169-34-0096,Spouse,False
+266,441,Krista,Lyons,236-41-1720,Dependent Relative,False
+222,442,Nicholas,Farmer,579-81-4688,Other,False
+314,443,Teresa,Frey,317-49-6349,Foster Child,True
+836,444,Holly,Ingram,647-40-0676,Relative,True
+689,445,Douglas,Sanchez,848-57-9764,Foster Child,False
+348,446,Mary,Gonzales,058-98-3671,Grandparent,False
+641,447,Daniel,Rodriguez,789-42-6044,Grandchild,True
+393,448,Timothy,Brown,297-06-8433,Parent,True
+210,449,Curtis,Shelton,064-82-1381,Sibling,False
+150,450,Jonathon,Vaughan,786-81-0675,Stepchild,False
+385,451,Derek,Little,645-05-5776,Relative,True
+291,452,Stephanie,Myers,125-76-9363,Foster Child,False
+879,453,William,Smith,249-25-5385,Grandchild,True
+513,454,Allison,Miller,348-01-8990,Relative,False
+332,455,Albert,Daniel,617-79-0170,Spouse,True
+602,456,Melanie,Lozano,803-30-1958,Spouse,True
+697,457,Albert,Christensen,709-83-7084,Sibling,False
+655,458,Antonio,Howell,484-66-1132,Relative,True
+573,459,Geoffrey,Mckee,253-33-8324,Spouse,True
+14,460,Tiffany,Trevino,869-89-5174,Parent,False
+776,461,Kari,Rivera,386-69-0172,Parent,False
+867,462,Jessica,Evans,727-09-3293,Other,True
+382,463,Brandy,Phillips,236-10-8400,Dependent Relative,False
+342,464,Sarah,Perry,866-78-8546,Child,False
+91,465,Shannon,Decker,307-30-6906,Stepchild,True
+123,466,Edward,Martinez,824-45-2429,Foster Child,False
+516,467,Claudia,Day,257-95-9929,Grandparent,True
+253,468,Benjamin,Le,388-39-1874,Other,False
+472,469,Amy,Robinson,360-79-9567,Spouse,True
+731,470,Billy,Parker,534-63-6639,Stepchild,True
+148,471,Samantha,Martinez,391-74-5629,Grandchild,False
+483,472,Thomas,Hughes,401-71-1237,Other,True
+310,473,Douglas,Hicks,046-92-8102,Sibling,True
+479,474,Nicole,Elliott,027-80-5716,Dependent Relative,True
+330,475,Eric,Gibson,195-78-9855,Spouse,True
+531,476,Ariana,Farmer,599-15-3200,Parent,True
+690,477,Jennifer,Frazier,338-56-2079,Other,True
+914,478,Edward,Arellano,474-62-6275,Grandparent,True
+110,479,Tina,Adams,404-30-5153,Parent,False
+93,480,Ashley,Miller,450-85-0993,Other,False
+916,481,Kathryn,Lynch,727-32-9063,Grandparent,True
+93,482,Paul,Dean,469-81-0833,Child,False
+19,483,Nicholas,Chavez,864-52-3436,Other,False
+379,484,Theodore,Miller,045-04-2948,Stepchild,True
+87,485,Phyllis,White,153-53-0716,Spouse,False
+439,486,Carly,Larsen,640-34-5020,Sibling,True
+37,487,Anthony,Ryan,443-29-2348,Spouse,False
+695,488,Patricia,Page,690-48-0112,Relative,False
+443,489,Anthony,Prince,647-90-1780,Grandchild,False
+13,490,Jamie,Murray,352-81-9915,Foster Child,True
+158,491,Katelyn,Castro,456-44-7131,Grandparent,False
+680,492,Rachael,Dodson,263-37-6751,Grandchild,False
+821,493,Cody,Clark,259-79-9229,Stepchild,True
+847,494,Carlos,Stewart,325-25-5902,Sibling,False
+988,495,Charles,Ward,744-86-8723,Dependent Relative,False
+804,496,Kristen,Walters,432-14-0493,Other,True
+782,497,Michael,Schwartz,787-76-8862,Child,False
+345,498,David,Carey,593-33-7431,Child,False
+537,499,Blake,Phillips,169-76-8286,Parent,False
+301,500,Cheryl,Huynh,475-51-0065,Other,True

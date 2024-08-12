@@ -1,7 +1,7 @@
 # Database Management System & Analytics for Tax Services Business
 
 <p align="center">
-  <img src="imagenes/cover.jpg" />
+  <img src="imagenes/portada.jpg" />
 </p>
 
 ---
@@ -366,11 +366,11 @@ For practical purposes, we have created a synthetic dataset that allows us to sk
 - **local_tax_refund**: `DECIMAL(10, 2)` - Local tax refund.
 - **estimated_tax_payments_made**: `DECIMAL(10, 2)` - Estimated tax payments made.
 - **tax_liability**: `DECIMAL(10, 2)` - Tax liability.
-![](imagenes/taxpayer_table1.png)
-![](imagenes/taxpayer_table2.png)
-![](imagenes/taxpayer_table3.png)
-![](imagenes/taxpayer_table4.png)
-![](imagenes/taxpayer_table5.png)
+![](images/taxpayer_table1.png)
+![](images/taxpayer_table2.png)
+![](images/taxpayer_table3.png)
+![](images/taxpayer_table4.png)
+![](images/taxpayer_table5.png)
 ---
 #### Table: Dependents
 **Description**: Stores information about taxpayers' dependents.
@@ -383,7 +383,7 @@ For practical purposes, we have created a synthetic dataset that allows us to sk
 - **ssn**: `CHAR(11)` - Social Security Number of the dependent.
 - **relationship**: `VARCHAR(50)` - Relationship of the dependent to the taxpayer.
 - **qualifies_for_credit**: `BOOLEAN` - Indicates if the dependent qualifies for tax credits.
-![](imagenes/dependents_table.png)
+![](images/dependents_table.png)
 ---
 #### Table: Income
 **Description**: Stores information about taxpayers' income.
@@ -393,7 +393,7 @@ For practical purposes, we have created a synthetic dataset that allows us to sk
 - **taxpayer_id**: `INT` (Foreign Key) - Identifier of the associated taxpayer.
 - **income_type**: `VARCHAR(50)` - Type of income.
 - **amount**: `DECIMAL(10, 2)` - Amount of income.
-![](imagenes/income_table.png)
+![](images/income_table.png)
 ---
 #### Table: Deductions
 **Description**: Stores information about taxpayers' deductions.
@@ -403,7 +403,7 @@ For practical purposes, we have created a synthetic dataset that allows us to sk
 - **taxpayer_id**: `INT` (Foreign Key) - Identifier of the associated taxpayer.
 - **deduction_type**: `VARCHAR(50)` - Type of deduction.
 - **amount**: `DECIMAL(10, 2)` - Amount of deduction.
-![](imagenes/deductions_table.png)
+![](images/deductions_table.png)
 ---
 #### Table: Credits
 **Description**: Stores information about taxpayers' tax credits.
@@ -413,7 +413,7 @@ For practical purposes, we have created a synthetic dataset that allows us to sk
 - **taxpayer_id**: `INT` (Foreign Key) - Identifier of the associated taxpayer.
 - **credit_type**: `VARCHAR(50)` - Type of credit.
 - **amount**: `DECIMAL(10, 2)` - Amount of credit.
-![](imagenes/credits_table.png)
+![](images/credits_table.png)
 ---
 #### Table: Payments
 **Description**: Stores information about payments made by taxpayers.
@@ -423,7 +423,7 @@ For practical purposes, we have created a synthetic dataset that allows us to sk
 - **taxpayer_id**: `INT` (Foreign Key) - Identifier of the associated taxpayer.
 - **payment_type**: `VARCHAR(50)` - Type of payment.
 - **amount**: `DECIMAL(10, 2)` - Amount of payment.
-![](imagenes/payments_table.png)
+![](images/payments_table.png)
 
 #### Table: Refunds
 **Description**: Stores information about refunds received by taxpayers.
@@ -432,7 +432,7 @@ For practical purposes, we have created a synthetic dataset that allows us to sk
 - **refund_id**: `INT` (Primary Key) - Unique identifier for the refund.
 - **taxpayer_id**: `INT` (Foreign Key) - Identifier of the associated taxpayer.
 - **refund_amount**: `DECIMAL(10, 2)` - Amount of the refund.
-![](imagenes/refunds_table.png)
+![](images/refunds_table.png)
 ---
 #### Table: Amounts Owed
 **Description**: Stores information about amounts owed by taxpayers.
@@ -441,7 +441,7 @@ For practical purposes, we have created a synthetic dataset that allows us to sk
 - **amount_owed_id**: `INT` (Primary Key) - Unique identifier for the amount owed.
 - **taxpayer_id**: `INT` (Foreign Key) - Identifier of the associated taxpayer.
 - **amount**: `DECIMAL(10, 2)` - Amount owed.
-![](imagenes/amountowed_table.png)
+![](images/amountowed_table.png)
 ---
 ## **Methodology**
    - Description of the methods and techniques used in this phase of the project.
