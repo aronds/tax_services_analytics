@@ -1,7 +1,7 @@
 # Database Management System & Analytics for Tax Services Business
 
 <p align="center">
-  <img src="imagenes/portada.jpg" />
+  <img src="images/portada.jpg" />
 </p>
 
 ---
