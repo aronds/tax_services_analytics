@@ -1,4 +1,4 @@
-# Database Management System (DBMS) & Analytics for Tax Services Business
+# Relational Database Management System (RDBMS) & Analytics for Tax Services Business
 
 <p align="center">
   <img src="images/portada.jpg" />
