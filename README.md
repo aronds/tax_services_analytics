@@ -1,4 +1,4 @@
-# Database Management System & Analytics for Tax Services Business
+# Database Management System (DBMS) & Analytics for Tax Services Business
 
 <p align="center">
   <img src="images/portada.jpg" />
